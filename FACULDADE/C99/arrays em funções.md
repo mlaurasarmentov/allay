@@ -1,0 +1,1 @@
+sobre arrays: você SEMPRE precisa ter um valor definido para seus arrays!

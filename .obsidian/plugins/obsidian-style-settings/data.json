@@ -1,0 +1,10 @@
+{
+  "underwater-theme@@underwater-colors-light": "uw-aqua",
+  "underwater-theme@@tab-img": "url(\"https://minecraft.wiki/images/Allay_JE2_BE2.gif?aca63\")",
+  "underwater-theme@@vault-icon": "vault-plant",
+  "underwater-theme@@workspace-bg": true,
+  "underwater-theme@@bg-url": "url(\"https://cdnb.artstation.com/p/assets/images/images/042/400/679/large/mariana-salimena-birch-forest-artstation.jpg?1634406904\")",
+  "underwater-theme@@bg-opacity": 0.6,
+  "underwater-theme@@bg-blur": 2,
+  "underwater-theme@@layout-opacity": 0.8
+}

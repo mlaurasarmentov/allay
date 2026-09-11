@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "77c058ff8c36e10b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed00850d4882f9ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c7985e4a2397edf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FACULDADE/TRILHA/aula 9 - plataforma de dados prática.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aula 9 - plataforma de dados prática"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e4368b9d252cbd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d5bbf1d2e5d2e1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c34e536414f0e170",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "15242091cb4bba7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0cf665b3ba159a90",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "94d6c987a4a10c10",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6102b540c9cd6e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "978388de572a34ed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "14625ae93a61f908",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "1cf85b1176a723fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FACULDADE/PACODE/aula 2 - linguagem, complexidade e STL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8573a4e999c3d2a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FACULDADE/PACODE/aula 2 - linguagem, complexidade e STL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "eb7341110534eafe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "df692bf61e7952bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FACULDADE/PACODE/aula 2 - linguagem, complexidade e STL.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5c7985e4a2397edf",
+  "lastOpenFiles": [
+    "ORGANIZAÇÃO/geral.canvas",
+    "FACULDADE/TRILHA/aula 9 - plataforma de dados prática.md",
+    "FACULDADE/PACODE/aula 2 - linguagem, complexidade e STL.md",
+    "FACULDADE/PACODE/aula 1 - introdução.md",
+    "ROTAS/futuro.canvas",
+    "ORGANIZAÇÃO/horários.md",
+    "FACULDADE/POO/belarmino.canvas",
+    "ORGANIZAÇÃO/projetos da faculdade.md",
+    "ORGANIZAÇÃO/PROJETOS DA FACULDADE.canvas",
+    "ORGANIZAÇÃO/pesquisar.md",
+    "ROTAS/lista.md",
+    "ROTAS",
+    "FACULDADE/POO/prática 2 - conversão, entrada e saída.md",
+    "FACULDADE/POO/prática 1 - origem e estruturação.md",
+    "Untitled 1.md",
+    "FACULDADE/PACODE",
+    "FACULDADE/POO/ideias.md",
+    "ORGANIZAÇÃO",
+    "FACULDADE/POO",
+    "FACULDADE/TRILHA/aula 4 (programação orientada a objetos).md",
+    "Untitled.base",
+    "TRILHA/anotações - trilha sonora.md",
+    "FACULDADE/C99/estruturas.md",
+    "Pasted image 20260818115931.png",
+    "ESTUDO/C99/TRABALHO - imagem.md",
+    "FACULDADE/TRILHA/aula 5 (estrutura de dados).md",
+    "FACULDADE/C99/arquivos binários e acesso direto.md",
+    "FACULDADE/C99/tipos de constantes.md",
+    "FACULDADE/TRILHA/aula 6 (estrutura de dados).md",
+    "FACULDADE/C99/strings.md",
+    "FACULDADE/C99/processamento de arquivos.md",
+    "2026-07-29.md",
+    "TRILHA/aula 5 (matrizes).md",
+    "FACULDADE/C99/arrays.md",
+    "FACULDADE/C99/extras + aritmética de ponteiros.md",
+    "ESTUDO/MATEMÁTICA DISCRETA/quadro.canvas",
+    "FACULDADE/TRILHA",
+    "FACULDADE/C99",
+    "PESSOAL/CONSTELAÇÕES/quadro.canvas",
+    "GERAL",
+    "ESTUDO/CÁLCULO 1",
+    "PESSOAL/PORTFÓLIO"
+  ]
+}

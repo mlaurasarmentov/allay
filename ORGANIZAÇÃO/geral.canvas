@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f4587c6f05f02b25","type":"link","url":"https://docs.google.com/document/d/195btcPnHaBtrwc1zdjaZ0f3MNexb1w51Zabt3FnpefA/edit?tab=t.pta1h3xjx84h#heading=h.ut758itcgie0","x":-740,"y":-80,"width":1320,"height":720},
+		{"id":"b5cba7e80d67c34d","type":"file","file":"ORGANIZAÇÃO/horários.md","x":-1614,"y":-600,"width":824,"height":725},
+		{"id":"c966472cb8383eb3","type":"link","url":"https://cs.stanford.edu/people/karpathy/advice.html","x":-2620,"y":-660,"width":960,"height":740},
+		{"id":"afd5c876536f12ae","type":"link","url":"https://tasks.google.com/tasks/","x":-3020,"y":125,"width":960,"height":540},
+		{"id":"a4c0fbade9215e0a","type":"file","file":"ORGANIZAÇÃO/pesquisar.md","x":-3080,"y":-260,"width":400,"height":300},
+		{"id":"66f26c8e5d2353ff","type":"link","url":"https://calendar.google.com/calendar/u/0/r?pli=1","x":-2010,"y":200,"width":1220,"height":740}
+	],
+	"edges":[]
+}
