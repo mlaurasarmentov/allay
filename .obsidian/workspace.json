@@ -11,14 +11,17 @@
             "id": "7f89c12d0c012475",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "ORGANIZAÇÃO/horários.md",
-                "mode": "source",
-                "source": false
+                "file": "ORGANIZAÇÃO/geral.canvas",
+                "viewState": {
+                  "x": -1848.9629250383764,
+                  "y": 239.57485210442997,
+                  "zoom": -1.4337822854814064
+                }
               },
-              "icon": "lucide-file",
-              "title": "horários"
+              "icon": "lucide-layout-dashboard",
+              "title": "geral"
             }
           }
         ]
@@ -195,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,12 +215,12 @@
   },
   "active": "7f89c12d0c012475",
   "lastOpenFiles": [
+    "ORGANIZAÇÃO/horários.md",
     "ORGANIZAÇÃO/geral.canvas",
     "FACULDADE/TRILHA/aula 9 - plataforma de dados prática.md",
     "FACULDADE/PACODE/aula 2 - linguagem, complexidade e STL.md",
     "FACULDADE/PACODE/aula 1 - introdução.md",
     "ROTAS/futuro.canvas",
-    "ORGANIZAÇÃO/horários.md",
     "FACULDADE/POO/belarmino.canvas",
     "ORGANIZAÇÃO/projetos da faculdade.md",
     "ORGANIZAÇÃO/PROJETOS DA FACULDADE.canvas",
