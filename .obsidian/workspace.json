@@ -11,17 +11,14 @@
             "id": "7f89c12d0c012475",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "ORGANIZAÇÃO/geral.canvas",
-                "viewState": {
-                  "x": -1848.9629250383764,
-                  "y": 239.57485210442997,
-                  "zoom": -1.4337822854814064
-                }
+                "file": "FACULDADE/PACODE/aula 2 - linguagem, complexidade e STL.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "geral"
+              "icon": "lucide-file",
+              "title": "aula 2 - linguagem, complexidade e STL"
             }
           }
         ]
@@ -215,8 +212,8 @@
   },
   "active": "7f89c12d0c012475",
   "lastOpenFiles": [
-    "ORGANIZAÇÃO/horários.md",
     "ORGANIZAÇÃO/geral.canvas",
+    "ORGANIZAÇÃO/horários.md",
     "FACULDADE/TRILHA/aula 9 - plataforma de dados prática.md",
     "FACULDADE/PACODE/aula 2 - linguagem, complexidade e STL.md",
     "FACULDADE/PACODE/aula 1 - introdução.md",
