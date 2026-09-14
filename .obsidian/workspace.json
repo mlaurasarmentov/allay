@@ -11,14 +11,17 @@
             "id": "7f89c12d0c012475",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "FACULDADE/PACODE/aula 2 - linguagem, complexidade e STL.md",
-                "mode": "source",
-                "source": false
+                "file": "ORGANIZAÇÃO/geral.canvas",
+                "viewState": {
+                  "x": -1255.148947943872,
+                  "y": 247.88330051740922,
+                  "zoom": -1.9513771036219227
+                }
               },
-              "icon": "lucide-file",
-              "title": "aula 2 - linguagem, complexidade e STL"
+              "icon": "lucide-layout-dashboard",
+              "title": "geral"
             }
           }
         ]
@@ -191,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,16 +215,16 @@
   },
   "active": "7f89c12d0c012475",
   "lastOpenFiles": [
-    "ORGANIZAÇÃO/geral.canvas",
     "ORGANIZAÇÃO/horários.md",
-    "FACULDADE/TRILHA/aula 9 - plataforma de dados prática.md",
+    "ORGANIZAÇÃO/pesquisar.md",
+    "ORGANIZAÇÃO/geral.canvas",
     "FACULDADE/PACODE/aula 2 - linguagem, complexidade e STL.md",
+    "FACULDADE/TRILHA/aula 9 - plataforma de dados prática.md",
     "FACULDADE/PACODE/aula 1 - introdução.md",
     "ROTAS/futuro.canvas",
     "FACULDADE/POO/belarmino.canvas",
     "ORGANIZAÇÃO/projetos da faculdade.md",
     "ORGANIZAÇÃO/PROJETOS DA FACULDADE.canvas",
-    "ORGANIZAÇÃO/pesquisar.md",
     "ROTAS/lista.md",
     "ROTAS",
     "FACULDADE/POO/prática 2 - conversão, entrada e saída.md",
