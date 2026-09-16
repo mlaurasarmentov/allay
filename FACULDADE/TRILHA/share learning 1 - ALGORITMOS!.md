@@ -1,0 +1,2 @@
+- Programação dinâmica: otimização combinatória;
+- Algoritmos gulosos: resolver um problema independente de seus custos;
