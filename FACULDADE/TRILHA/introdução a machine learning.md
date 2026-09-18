@@ -38,5 +38,3 @@
 - **Overfitting e underfitting:**
 	- Overfitting: a máquina se acostuma somente aos exemplos dados -> falta generalização (geralmente em modelos de alta variância);
 	- Underfitting: não diferencia bem, pois não se acostuma bem aos exemplos dados -> muito generalizado (caso do perception em dados muito complexos);
-
-- 
