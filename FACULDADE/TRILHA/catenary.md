@@ -1,0 +1,3 @@
+- Checar LSP -> conexão entre linguagens e IDEs (Microsoft);
+- MCP -> conector universal de IA para ferramentas externas (Anthropic);
+- 
