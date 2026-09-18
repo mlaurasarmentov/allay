@@ -1,3 +1,9 @@
 - Checar LSP -> conexão entre linguagens e IDEs (Microsoft);
 - MCP -> conector universal de IA para ferramentas externas (Anthropic);
+- Técnico (ver mais no slide):
+	- Framework - Electron;
+	- Zustand - biblioteca de estado (canva);
+	- React e Typescript (com Node.js) - frontend;
+	- Tailwind - CSS moderno;
+	- Validação offline;
 - 
