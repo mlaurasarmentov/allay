@@ -1,0 +1,25 @@
+- Inteligência artificial -> Machine learning -> Deep learning;
+- Paradigma tradicional: input e regras claras - o computador passa o output;
+- Machine learning: dados e respostas - o computador descobre as regras;
+	- Usamos experiência (dados passados) para resolver uma tarefa e calculamos como foi o desempenho;
+- **Tipos de aprendizagem:**
+	- Supervisionado: cada exemplo tem resposta;
+		- Tipos: 
+			- Classificação: separar classes de dados, não costuma usar números reais;
+			- Regressão: números reais, descrição do comportamento dos dados;
+			- Linear: usam dados linearmente separados (retas!);
+			- Não-linear: usam dados que não conseguem usar retas em sua separação (curvas, normalmente em problemas maiores);
+	- Não-supervisionado: sem respostas -> deve-se encontrar um padrão;
+	- Por reforço: tentativa, erro e recompensa (pontos);
+- Perceptron:
+	- Algoritmo classificador binário: f(x) = h(xw + b);
+		- Em que:
+		- x são features do dataset (estabelecidas antes);
+		- w são os pesos (mudados de acordo com as tentativas);
+		- b são os vieses;
+	- Funciona em passos:
+		- Inicialização de pesos;
+		- Para cada exemplo:
+			- Calcula a saída;
+			- Compara e atualiza os pesos de acordo com o output desejado;
+			- Incrementa o tempo;

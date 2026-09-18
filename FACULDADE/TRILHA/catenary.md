@@ -6,4 +6,3 @@
 	- React e Typescript (com Node.js) - frontend;
 	- Tailwind - CSS moderno;
 	- Validação offline;
-- 
