@@ -2,6 +2,8 @@
 - plotly biblioteca python
 - one hot encoding
 - feature engineering
+- algoritmos de redes neurais
+- entropia na computação
 
 flar
 - petrus
