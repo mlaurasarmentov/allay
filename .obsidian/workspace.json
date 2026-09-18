@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "share learning 1 - ALGORITMOS!"
             }
+          },
+          {
+            "id": "4e3b80631444b45a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FACULDADE/TRILHA/catenary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "catenary"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,10 +225,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cef795879c7dc40",
+  "active": "4e3b80631444b45a",
   "lastOpenFiles": [
-    "FACULDADE/PACODE/aula 2 - linguagem, complexidade e STL.md",
     "FACULDADE/TRILHA/share learning 1 - ALGORITMOS!.md",
+    "FACULDADE/TRILHA/catenary.md",
+    "FACULDADE/PACODE/aula 2 - linguagem, complexidade e STL.md",
     "ORGANIZAÇÃO/geral.canvas",
     "ORGANIZAÇÃO/horários.md",
     "ORGANIZAÇÃO/pesquisar.md",
@@ -247,7 +263,6 @@
     "2026-07-29.md",
     "TRILHA/aula 5 (matrizes).md",
     "FACULDADE/C99/arrays.md",
-    "FACULDADE/C99/extras + aritmética de ponteiros.md",
     "ESTUDO/MATEMÁTICA DISCRETA/quadro.canvas",
     "FACULDADE/TRILHA",
     "FACULDADE/C99",
