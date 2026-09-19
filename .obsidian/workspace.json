@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FACULDADE/TRILHA/introdução a machine learning.md",
+                "file": "FACULDADE/TRILHA/programação orientada a objetos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "introdução a machine learning"
+              "title": "programação orientada a objetos"
             }
           }
         ]
@@ -212,9 +212,9 @@
   },
   "active": "741600b9fccc10c7",
   "lastOpenFiles": [
+    "FACULDADE/TRILHA/introdução a machine learning.md",
     "FACULDADE/TRILHA/programação orientada a objetos.md",
     "ORGANIZAÇÃO/pesquisar.md",
-    "FACULDADE/TRILHA/introdução a machine learning.md",
     "FACULDADE/TRILHA/estrutura de dados I.md",
     "FACULDADE/TRILHA/estrutura de dados II.md",
     "FACULDADE/TRILHA/plataforma de dados prática.md",
