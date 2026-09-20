@@ -11,14 +11,17 @@
             "id": "741600b9fccc10c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "FACULDADE/TRILHA/programação orientada a objetos.md",
-                "mode": "source",
-                "source": false
+                "file": "ORGANIZAÇÃO/geral.canvas",
+                "viewState": {
+                  "x": 0.37970046829819637,
+                  "y": -0.9949668497444293,
+                  "zoom": -0.11092764069186972
+                }
               },
-              "icon": "lucide-file",
-              "title": "programação orientada a objetos"
+              "icon": "lucide-layout-dashboard",
+              "title": "geral"
             }
           }
         ]
@@ -83,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "94d6c987a4a10c10",
@@ -195,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,14 +217,14 @@
   },
   "active": "741600b9fccc10c7",
   "lastOpenFiles": [
-    "FACULDADE/TRILHA/introdução a machine learning.md",
     "FACULDADE/TRILHA/programação orientada a objetos.md",
+    "FACULDADE/TRILHA/share learning - ALGORITMOS!.md",
+    "FACULDADE/TRILHA/introdução a machine learning.md",
     "ORGANIZAÇÃO/pesquisar.md",
     "FACULDADE/TRILHA/estrutura de dados I.md",
     "FACULDADE/TRILHA/estrutura de dados II.md",
     "FACULDADE/TRILHA/plataforma de dados prática.md",
     "FACULDADE/TRILHA/catenary.md",
-    "FACULDADE/TRILHA/share learning 1 - ALGORITMOS!.md",
     "FACULDADE/PACODE/aula 2 - linguagem, complexidade e STL.md",
     "ORGANIZAÇÃO/geral.canvas",
     "ORGANIZAÇÃO/horários.md",
