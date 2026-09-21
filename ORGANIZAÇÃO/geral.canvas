@@ -1,4 +1,6 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"bbd475f18e2dbc2f","x":-98,"y":-174,"width":838,"height":694,"type":"link","url":"https://cs.stanford.edu/people/karpathy/advice.html"}
+	],
 	"edges":[]
 }

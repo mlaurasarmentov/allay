@@ -15,9 +15,9 @@
               "state": {
                 "file": "ORGANIZAÇÃO/geral.canvas",
                 "viewState": {
-                  "x": 0.37970046829819637,
-                  "y": -0.9949668497444293,
-                  "zoom": -0.11092764069186972
+                  "x": 367.17035093740367,
+                  "y": 157.45299569077554,
+                  "zoom": -0.20175067344900746
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "94d6c987a4a10c10",
@@ -117,8 +116,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -190,8 +189,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],

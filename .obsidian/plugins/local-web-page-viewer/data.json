@@ -1,0 +1,46 @@
+{
+  "zoomByDevice": {},
+  "scrollByDevice": {},
+  "actionsByDevice": {
+    "019d1bcc-d6b5-40c5-ad39-aadc2dd26971": [
+      {
+        "id": "reload",
+        "pinned": true
+      },
+      {
+        "id": "zoomIn",
+        "pinned": true
+      },
+      {
+        "id": "zoomOut",
+        "pinned": true
+      },
+      {
+        "id": "resetZoom",
+        "pinned": false
+      },
+      {
+        "id": "fitToWidth",
+        "pinned": false
+      },
+      {
+        "id": "addBookmark",
+        "pinned": false
+      },
+      {
+        "id": "bookmarks",
+        "pinned": false
+      },
+      {
+        "id": "setAssetsRoot",
+        "pinned": false
+      },
+      {
+        "id": "openExternally",
+        "pinned": false
+      }
+    ]
+  },
+  "bookmarksByFile": {},
+  "assetsRootByFile": {}
+}
