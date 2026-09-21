@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FACULDADE/ARQUITETURA/introdução.md",
+                "file": "FACULDADE/PACODE/linguagem, complexidade e STL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "introdução"
+              "title": "linguagem, complexidade e STL"
             }
           }
         ],
@@ -230,8 +230,9 @@
   },
   "active": "a3a74b0c9509e212",
   "lastOpenFiles": [
-    "ORGANIZAÇÃO/geral.canvas",
+    "FACULDADE/PACODE/introdução.md",
     "FACULDADE/ARQUITETURA/introdução.md",
+    "ORGANIZAÇÃO/geral.canvas",
     "FACULDADE/ARQUITETURA",
     "FACULDADE/TRILHA/programação orientada a objetos.md",
     "FACULDADE/TRILHA/share learning - ALGORITMOS!.md",
@@ -241,9 +242,8 @@
     "FACULDADE/TRILHA/estrutura de dados II.md",
     "FACULDADE/TRILHA/plataforma de dados prática.md",
     "FACULDADE/TRILHA/catenary.md",
-    "FACULDADE/PACODE/aula 2 - linguagem, complexidade e STL.md",
+    "FACULDADE/PACODE/linguagem, complexidade e STL.md",
     "ORGANIZAÇÃO/horários.md",
-    "FACULDADE/PACODE/aula 1 - introdução.md",
     "ROTAS/futuro.canvas",
     "FACULDADE/POO/belarmino.canvas",
     "ORGANIZAÇÃO/projetos da faculdade.md",
