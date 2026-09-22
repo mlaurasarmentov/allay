@@ -1,0 +1,11 @@
+- Programa: sequência de instruções finitas e objetivas que explicam como se fazer determinada tarefa;
+- Máquinas virtuais: são simulações de computadores com linguagens de máquinas com maior nível, usadas para trazer ao programador acesso à elas. Seus programas são interpretados / traduzidos por máquinas abaixo, até o nível da máquina real;
+- **Máquina multinível:** computador de possui diversas máquinas virtuais, uma em cada nível;
+	- Os computadores atuais são assim:
+	- 0. Lógica Digital (portas lógicas, diretamente com hardware);
+	- 1. Microprogramação (linguagem de máquina, normalmente para movimentação de dados);
+	- 2. Máquina Convencional;
+	- 3. Sistema Operacional (híbrido entre interpretação por microprogramas e por sistema operacional);
+	- 4. Linguagem de Montagem (linguagem simbólica para os outros níveis, seus programas são traduzidos para os outros níveis e interpretados em 0, o montador quem traduz este nível);
+	- 5. Linguagem de Alto Nível (por exemplo, C; traduz essas linguagens para alguma de mais baixo nível pelo compilador);
+	- 6+. Depende da aplicação, pode existir.
