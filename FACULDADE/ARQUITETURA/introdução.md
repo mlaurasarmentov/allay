@@ -9,3 +9,13 @@
 	- 4. Linguagem de Montagem (linguagem simbólica para os outros níveis, seus programas são traduzidos para os outros níveis e interpretados em 0, o montador quem traduz este nível);
 	- 5. Linguagem de Alto Nível (por exemplo, C; traduz essas linguagens para alguma de mais baixo nível pelo compilador);
 	- 6+. Depende da aplicação, pode existir.
+
+- Hardware: conjunto de três elementos:
+	- Dispositivos de entrada / saída;
+	- Memória;
+	- Circuitos eletrônicos;
+- Software e hardware são muito parecidos! A maior diferença entre programas rodados em um para o outro é a velocidade;
+- Muitos programas que antes eram de nível de máquina convencional, hoje em dia, são feitos pelo hardware ou pelo nível lógico;
+
+- Modelo de Von Neumann:
+	- MEMÓRIA <-> UNIDADE DE CONTROLE <-> UNIDADE LÓGICA E ARITMÉTICA (acumulador: entrada e saída);
