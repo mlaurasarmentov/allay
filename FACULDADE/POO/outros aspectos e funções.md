@@ -17,4 +17,11 @@
 	- Em classes, recebem o nome "método";
 - Em Java: 
 	- Para usar, temos que declarar um novo objeto que use essa classe ou declarar o método como estático (`public static void a()`, por exemplo);
-	- 
+	- Tudo referente à variável é passado por valor; 
+	- Tudo referente a classes (objetos) é passado por referência;
+	- EXCEÇÃO: strings são imutáveis, portanto, não mudam de valor por referência.
+
+- Funções matemáticas:
+	- `Math.nomedométodo(<valor>)`;
+	- `(tipo) variável` faz a conversão explícita de um tipo - sem isso, o Java faz um floor automaticamente;
+	- Também se pode usar um ceil, ou um round, para essas aproximações;
