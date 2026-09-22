@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FACULDADE/ARQUITETURA/introdução.md",
+                "file": "FACULDADE/PACODE/linguagem, complexidade e STL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "introdução"
+              "title": "linguagem, complexidade e STL"
             }
           }
         ]
@@ -212,8 +212,8 @@
   },
   "active": "a3a74b0c9509e212",
   "lastOpenFiles": [
-    "FACULDADE/PACODE/linguagem, complexidade e STL.md",
     "FACULDADE/ARQUITETURA/introdução.md",
+    "FACULDADE/PACODE/linguagem, complexidade e STL.md",
     "FACULDADE/PACODE/introdução.md",
     "ORGANIZAÇÃO/geral.canvas",
     "FACULDADE/ARQUITETURA",
