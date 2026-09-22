@@ -1,0 +1,20 @@
+- Array (vetor): é um objeto:
+	- `int[] array = {elementos}`
+	- `int[] array = new int[tamanho];` 
+	- Acesso a elementos: `array[índice]` 
+	- Sem alocação, o array retorna o valor padrão 0;
+	- Arrays são uma estrutura de dados linear e homogênea (guardam variáveis do mesmo tipo);
+	- Só se pode instanciar todos os valores na inicialização! Para declarar depois, deve-se declarar valor por valor;
+	- Ao mudar o tamanho de um array após sua declaração, ele perde as informações anteriores (o array antigo vira lixo de memória);
+	- Em Java, arrays são estáticos;
+	- `array.lenght` retorna o tamanho de um array;
+- Arrays bidimensionais:
+	- Matrizes! [linha] x [coluna]
+	- Cada chave interna representa uma linha;
+
+- Funções (subprogramas) / Métodos:
+	- Podem receber parâmetros e retornar uma saída;
+	- Em classes, recebem o nome "método";
+- Em Java: 
+	- Para usar, temos que declarar um novo objeto que use essa classe ou declarar o método como estático (`public static void a()`, por exemplo);
+	- 
