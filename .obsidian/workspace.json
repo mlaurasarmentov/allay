@@ -22,16 +22,21 @@
             }
           },
           {
-            "id": "63c0bc1e1058478e",
+            "id": "be722af8c88c5cef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "FACULDADE/LÓGICA/sistemas e implicações.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "sistemas e implicações"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,14 +222,18 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "814abc2a8b215913",
+  "active": "be722af8c88c5cef",
   "lastOpenFiles": [
+    "FACULDADE/POO/outros aspectos e funções.md",
+    "FACULDADE/LÓGICA/sistemas e implicações.md",
+    "FACULDADE/LÓGICA",
     "FACULDADE/POO/conversão, entrada e saída.md",
     "FACULDADE/POO/origem e estruturação.md",
-    "FACULDADE/POO/outros aspectos e funções.md",
     "FACULDADE/PACODE/linguagem, complexidade e STL.md",
     "FACULDADE/ARQUITETURA/introdução.md",
     "FACULDADE/PACODE/introdução.md",
@@ -258,12 +267,10 @@
     "FACULDADE/C99/arquivos binários e acesso direto.md",
     "FACULDADE/C99/tipos de constantes.md",
     "FACULDADE/C99/strings.md",
-    "FACULDADE/C99/processamento de arquivos.md",
     "ESTUDO/MATEMÁTICA DISCRETA/quadro.canvas",
     "TRILHA",
     "FACULDADE/C99",
     "PESSOAL/CONSTELAÇÕES/quadro.canvas",
-    "GERAL",
-    "ESTUDO/CÁLCULO 1"
+    "GERAL"
   ]
 }
