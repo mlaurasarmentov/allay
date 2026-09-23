@@ -25,3 +25,4 @@
 	- `Math.nomedométodo(<valor>)`;
 	- `(tipo) variável` faz a conversão explícita de um tipo - sem isso, o Java faz um floor automaticamente;
 	- Também se pode usar um ceil, ou um round, para essas aproximações;
+	- `math.random()` gera números aleatórios (pode ser limitado em um intervalo);
