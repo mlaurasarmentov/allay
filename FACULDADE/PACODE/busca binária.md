@@ -5,4 +5,9 @@
 2. Busca binária: divide para encontrar (n log n):
 	- Verifica o do meio (por média aritmética);
 	- Se for maior, descarta-se todos à direita. Caso contrário, descarta-se todos à esquerda (inclusive o meio achado; em vez disso, o meio virará o meio + 1);
-	- No fim, ou teremos o elemento desejado ou ele não existirá no vetor (quando o limite do vetor for atingido, acabar-se-á a busca).
+	- No fim, ou teremos o elemento desejado ou ele não existirá no vetor (quando o limite do vetor for atingido, acabar-se-á a busca);
+	- Cuidado com overflow! l + (l + r)/2 é mais seguro;
+
+- Checar edu.codeforces;
+- LOWERBOUND: função que retorna o primeiro elemento >= a um x dado (se não houver, retorna o end);
+- UPPERBOUND: função que retorna o primeiro elemento estritamente maior que o elemento dado (se não houver, retorna o end);
