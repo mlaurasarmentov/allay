@@ -11,10 +11,14 @@
             "id": "ed23074d13092e3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "FACULDADE/PACODE/busca binária.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "busca binária"
             }
           }
         ]
@@ -210,6 +214,7 @@
   },
   "active": "ed23074d13092e3c",
   "lastOpenFiles": [
+    "FACULDADE/PACODE/busca binária.md",
     "FACULDADE/POO/outros aspectos e funções.md",
     "FACULDADE/LÓGICA/sistemas e implicações.md",
     "FACULDADE/LÓGICA",
@@ -247,7 +252,6 @@
     "ESTUDO/C99/TRABALHO - imagem.md",
     "FACULDADE/C99/arquivos binários e acesso direto.md",
     "FACULDADE/C99/tipos de constantes.md",
-    "FACULDADE/C99/strings.md",
     "ESTUDO/MATEMÁTICA DISCRETA/quadro.canvas",
     "TRILHA",
     "FACULDADE/C99",
