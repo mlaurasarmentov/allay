@@ -1,4 +1,5 @@
 ## Métodos:
+
 1. Busca linear: percorrer todo o array e verificar - O(n):
 	- Inviável pela complexidade temporal;
 2. Busca binária: divide para encontrar (n log n):
