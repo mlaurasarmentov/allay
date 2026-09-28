@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "busca binária"
             }
+          },
+          {
+            "id": "f0387ff6574def5a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-09-28 15.50.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-28 15.50.34.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,9 +225,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ed23074d13092e3c",
+  "active": "f0387ff6574def5a",
   "lastOpenFiles": [
     "FACULDADE/PACODE/busca binária.md",
+    "Excalidraw/Drawing 2026-09-28 15.50.34.excalidraw.md",
+    "Excalidraw",
     "FACULDADE/POO/outros aspectos e funções.md",
     "FACULDADE/LÓGICA/sistemas e implicações.md",
     "FACULDADE/LÓGICA",
@@ -251,11 +266,9 @@
     "Pasted image 20260818115931.png",
     "ESTUDO/C99/TRABALHO - imagem.md",
     "FACULDADE/C99/arquivos binários e acesso direto.md",
-    "FACULDADE/C99/tipos de constantes.md",
     "ESTUDO/MATEMÁTICA DISCRETA/quadro.canvas",
     "TRILHA",
     "FACULDADE/C99",
-    "PESSOAL/CONSTELAÇÕES/quadro.canvas",
-    "GERAL"
+    "PESSOAL/CONSTELAÇÕES/quadro.canvas"
   ]
 }
