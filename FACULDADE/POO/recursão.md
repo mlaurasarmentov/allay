@@ -1,0 +1,1 @@
+- Problemas não computáveis: param || loop;
