@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FACULDADE/POO/recursão.md",
+                "file": "FACULDADE/POO/recursão e arquivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "recursão"
+              "title": "recursão e arquivos"
             }
           }
         ]
@@ -213,9 +213,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c34e536414f0e170",
+  "active": "bbca628c6f9f35b4",
   "lastOpenFiles": [
-    "FACULDADE/POO/recursão.md",
+    "FACULDADE/POO/recursão e arquivos.md",
     "FACULDADE/PACODE/busca binária.md",
     "EXCALIDRAW/Drawing 2026-09-28 15.50.34.excalidraw.md",
     "EXCALIDRAW",
