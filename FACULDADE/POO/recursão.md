@@ -5,6 +5,5 @@
 - A recursão é usada até um caso base ser alcançado;
 	- Primeiro, define-se o caso base, depois, o caso recursivo;
 	- Exemplo básico: fatorial;
-- 
 
 ## Arquivos:
