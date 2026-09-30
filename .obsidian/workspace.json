@@ -23,8 +23,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "belarmino"
             }
+          },
+          {
+            "id": "545030ff33de1377",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://app.todoist.com/app/task/tarefa-belarmino-6hcR92HcJG99qHcc"
+              },
+              "icon": "lucide-file",
+              "title": "Todoist"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,8 +229,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bbca628c6f9f35b4",
+  "active": "545030ff33de1377",
   "lastOpenFiles": [
+    "FACULDADE/POO/belarmino.canvas",
     "FACULDADE/POO/recursão e arquivos.md",
     "FACULDADE/POO/outros aspectos e funções.md",
     "FACULDADE/POO/origem e estruturação.md",
@@ -242,7 +256,6 @@
     "TRILHA/catenary.md",
     "ORGANIZAÇÃO/horários.md",
     "ROTAS/futuro.canvas",
-    "FACULDADE/POO/belarmino.canvas",
     "ORGANIZAÇÃO/projetos da faculdade.md",
     "ORGANIZAÇÃO/PROJETOS DA FACULDADE.canvas",
     "ROTAS/lista.md",
@@ -256,7 +269,6 @@
     "TRILHA/anotações - trilha sonora.md",
     "FACULDADE/C99/estruturas.md",
     "Pasted image 20260818115931.png",
-    "ESTUDO/C99/TRABALHO - imagem.md",
     "ESTUDO/MATEMÁTICA DISCRETA/quadro.canvas",
     "TRILHA",
     "FACULDADE/C99",
