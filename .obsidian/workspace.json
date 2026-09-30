@@ -15,8 +15,8 @@
               "state": {
                 "file": "FACULDADE/POO/belarmino.canvas",
                 "viewState": {
-                  "x": 38,
-                  "y": -23,
+                  "x": 340.11857174912143,
+                  "y": -9.181276980137962,
                   "zoom": 0
                 }
               },
@@ -30,14 +30,13 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://app.todoist.com/app/task/tarefa-belarmino-6hcR92HcJG99qHcc"
+                "url": "https://app.todoist.com/app/inbox"
               },
               "icon": "lucide-file",
-              "title": "Todoist"
+              "title": "Inbox – Todoist"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,18 +227,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "545030ff33de1377",
+  "active": "bbca628c6f9f35b4",
   "lastOpenFiles": [
-    "FACULDADE/POO/belarmino.canvas",
     "FACULDADE/POO/recursão e arquivos.md",
     "FACULDADE/POO/outros aspectos e funções.md",
     "FACULDADE/POO/origem e estruturação.md",
+    "FACULDADE/POO/ideias.md",
+    "FACULDADE/POO/conversão, entrada e saída.md",
+    "FACULDADE/POO/belarmino.canvas",
     "FACULDADE/PACODE/busca binária.md",
     "EXCALIDRAW/Drawing 2026-09-28 15.50.34.excalidraw.md",
     "EXCALIDRAW",
     "FACULDADE/LÓGICA/sistemas e implicações.md",
     "FACULDADE/LÓGICA",
-    "FACULDADE/POO/conversão, entrada e saída.md",
     "FACULDADE/PACODE/linguagem, complexidade e STL.md",
     "FACULDADE/ARQUITETURA/introdução.md",
     "FACULDADE/PACODE/introdução.md",
@@ -262,7 +261,6 @@
     "ROTAS",
     "Untitled 1.md",
     "FACULDADE/PACODE",
-    "FACULDADE/POO/ideias.md",
     "ORGANIZAÇÃO",
     "FACULDADE/POO",
     "Untitled.base",

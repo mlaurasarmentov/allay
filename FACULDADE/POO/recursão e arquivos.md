@@ -1,4 +1,4 @@
-## Recursão:
+# Recursão:
 - Problemas não computáveis: para || loop;
 - Ciclo para resolução de um problema: uma função que chama a si mesma;
 - Recursividade falha em uma pilha: stack overflow;
@@ -9,4 +9,4 @@
 - Varags: função que usa parâmetros variados (arg: parâmetro, v: variado);
 	- Permite a criação flexível de métodos;
 	- Internamente, é um array;
-## Arquivos:
+# Arquivos:

@@ -1,4 +1,4 @@
-**CONVERSÃO:**
+# **CONVERSÃO:**
 - Operadores relacionais (comparadores, retornam 0 e 1);
 - Operadores lógicos (&&, ||, ! - "e", "ou" e "não") e curto-circuito;
 	- Precedência = conjunção;
@@ -12,7 +12,7 @@
 - Cuidado com strings! Melhor criar várias Strings em vez de somente mudar seus valores, para se saber quando as Strings serão eliminadas;
 
 
-**ENTRADA E SAÍDA DE DADOS:**
+# **ENTRADA E SAÍDA DE DADOS:**
 - String é um objeto facilitado, a fim de ser usado como variável;
 - Objeto scanner: classe com exportação (java.util.Scanner);
 - Com scanner, lemos os dados de qualquer tipo padrão;

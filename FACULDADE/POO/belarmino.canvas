@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"a2aacf520c50ea4d","x":-162,"y":-223,"width":400,"height":400,"type":"file","file":"FACULDADE/POO/ideias.md"}
+		{"id":"a2aacf520c50ea4d","type":"file","file":"FACULDADE/POO/ideias.md","x":-162,"y":-223,"width":400,"height":400},
+		{"id":"deef0c810a42c9d6","type":"text","text":"# site:\n\n## Planejamento:\n- Perfis para cada jogador:\n\t- Redes sociais gerais (twitter, youtube, twitch) e biografia simples;\n\t- Pronomes, talvez?\n\t- País de nascimento;\n\t- Coisas notáveis;\n- Seleção de campeonatos (incluindo campeonatos passados);\n- Ranking de jogadores por vitórias e por moedas totais;\n- Seleção de minijogos:\n\t- Melhor run em cada jogo;\n","x":420,"y":-380,"width":420,"height":340}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"90cc075defb6a63a","fromNode":"deef0c810a42c9d6","fromSide":"left","toNode":"a2aacf520c50ea4d","toSide":"right","toEnd":"none","color":"#60a1a9","label":"MCC"}
+	]
 }
