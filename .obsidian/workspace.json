@@ -25,16 +25,13 @@
             "id": "8c70e85686ff4ff5",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.todoist.com/pt-BR"
-              },
-              "icon": "lucide-file",
-              "title": "Surfing"
+              "type": "surfing-bookmark-manager",
+              "state": {},
+              "icon": "album",
+              "title": "Surfing Bookmark Manager"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +225,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8c70e85686ff4ff5",
+  "active": "16b5acab4c82e86d",
   "lastOpenFiles": [
     "TRILHA/backend.md",
     "FACULDADE/PACODE/soma de prefixos e max subarray sum.md",
