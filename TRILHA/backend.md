@@ -27,4 +27,19 @@
 - Protocolo de transferência de textos;
 - Requisição e resposta;
 - Status code: retorna um código para informar sobre a requisição feita;
-- 
+
+# APIs e REST:
+
+## API:
+- Requisição -> Backend -> Resposta;
+- O backend recebe, processa e decide, nesse ínterim;
+- API: interface entre o cliente e o backend;
+- Endpoint: fica no fim da URL, é o caminho para a requisição;
+- API liga o cliente ao backend;
+
+## REST:
+- Uma API, para ser REST, segue o padrão HATEOAS (ou seja, ela precisa transferir HTML / hypermedia);
+- JSON é muito usado em tráfego de texto;
+
+# Contratos e schema:
+
