@@ -11,12 +11,14 @@
             "id": "545030ff33de1377",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "markdown",
               "state": {
-                "url": "https://app.todoist.com/app/inbox"
+                "file": "FACULDADE/PACODE/busca binária.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Todoist"
+              "title": "busca binária"
             }
           }
         ]
