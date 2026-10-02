@@ -21,3 +21,10 @@
 - DNS (Domain Name System): nomes para sites e patentiação de domínio, não envia dados, mas localiza o endereço pedido;
 	- Na camada de rede, transforma o domínio de um site em seu endereço de servidor;
 
+# HTTP na prática:
+
+## HTTP:
+- Protocolo de transferência de textos;
+- Requisição e resposta;
+- Status code: retorna um código para informar sobre a requisição feita;
+- 
