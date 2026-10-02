@@ -10,4 +10,12 @@
 - Complexidade $O(n)$ por pré-processamento, $O(1)$ para a consulta;
 - Complexidade final = pré-processamento + consultas;
 - Cuidado para deixar a indexação em 1: se ficar em 0, pode acabar com out-of-bound (-1) - usar n+1;
-- O vetor sum acaba com índice+1 do vetor inicial;
+- O vetor sum acaba com índice+1 do vetor inicial.
+
+# Max subarray sum:
+
+- Dado um array, queremos encontrar um segmento em que a soma dos intervalos é máxima;
+- Checar Kadane;
+- Queremos achar o valor em que prefix(l-1) é menor:
+	- Por cálculo, para achar [r, l], `prefix[r] - prefix[l-1]`;
+- 
