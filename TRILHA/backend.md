@@ -21,6 +21,10 @@
 - DNS (Domain Name System): nomes para sites e patentiação de domínio, não envia dados, mas localiza o endereço pedido;
 	- Na camada de rede, transforma o domínio de um site em seu endereço de servidor;
 
+## Autenticação:
+- Autenticar é logar, entrar na internet;
+- Autorização é ter acesso a espaços exclusivos na internet;
+
 # HTTP na prática:
 
 ## HTTP:
@@ -43,4 +47,10 @@
 
 # Contratos e schema:
 
-## 
+## Schema:
+- É o contrato de como uma rota da API funcionará;
+- Estabelece um entendimento sobre os dados trocados;
+	- O Pydantic vem com o FastAPI, ele identifica respostas não permitidas;
+	- Escreve-se o que deve ser requisitado e o que deve ser enviado;
+- Model: valida a parte do banco de dados;
+
