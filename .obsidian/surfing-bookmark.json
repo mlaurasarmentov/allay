@@ -1,5 +1,18 @@
 {
-  "bookmarks": [],
+  "bookmarks": [
+    {
+      "id": "1785543724",
+      "name": "Todoist",
+      "url": "https://app.todoist.com/app/inbox?locale=pt",
+      "description": "Todoist link",
+      "category": [
+        ""
+      ],
+      "tags": "Work Facul",
+      "created": 1790961360000,
+      "modified": 1790961360000
+    }
+  ],
   "categories": [
     {
       "value": "ROOT",

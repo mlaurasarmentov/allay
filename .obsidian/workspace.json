@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "8c70e85686ff4ff5",
+            "id": "15938207494506be",
             "type": "leaf",
             "state": {
               "type": "surfing-bookmark-manager",
@@ -31,7 +31,8 @@
               "title": "Surfing Bookmark Manager"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,7 +225,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "16b5acab4c82e86d",
+  "active": "15938207494506be",
   "lastOpenFiles": [
     "TRILHA/backend.md",
     "FACULDADE/PACODE/soma de prefixos e max subarray sum.md",
