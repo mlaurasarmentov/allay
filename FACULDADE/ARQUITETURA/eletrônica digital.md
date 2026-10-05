@@ -24,4 +24,33 @@
 
 # Barramento:
 
-- 
+- Os barramentos conectam as partes da máquina;
+- Barramento é um conjunto de fios paralelos que permite a transmissão de dados, de endereços, de sinais de controle e de instruções;
+- Tipos de barramento:
+	- Interno ao processador: ocorre entre a ULA e os registradores;
+	- Externo ao processador: ocorre entre CPU, memória e dispositivos de entrada e de saída;
+	- Barramento de dados (bidirecional): transferência de dados e de instruções entre processador, memória e dispositivos entrada / saída;
+	- Barramento de controle (bidirecional): sincroniza atividades do sistema;
+	- Barramento de endereços (unidirecional): seleciona origem ou destino de sinais - conduz endereços;
+
+- Controladora: contém a maior parte dos circuitos elétricos de um dispositivo - está encarregada de controlar o dispositivo e tratar seu acesso ao barramento;
+	- Também pode ser responsável por acesso direto à memória;
+- Interrupção: a controladora de um periférico para um programa corrente para rodar um procedimento especial - rotina de tratamento da interrupção;
+- Arbitragem de barramento: decide de quem será a vez de usar o barramento da máquina, entre periféricos (dispositivos de entrada e de saída) e o processador;
+	- Arbitragem centralizada: um árbitro controla a vez de acesso do barramento no dispositivo;
+	- Arbitragem descentralizada: não usa árbitro - o dispositivo deve usar a linha de requisição para pedir controle, e todos os dispositivos controlam essa linha;
+- Protocolo de barramento: é um conjunto de regras que definem como será feito o barramento;
+- Os dispositivos ligados ao barramento podem funcionar como:
+	- Mestres: são ativos no processo, comandam o barramento;
+	- Escravos: são passivos no processo, seguem o barramento definido pelos mestres;
+- Temporização do barramento: 
+	- Barramentos síncronos: usa clock para medir o as atividades - toda tarefa de barramento gasta um ciclo de cristal, ou seja, um ciclo de clock;
+		- Todo dispositivo dura o mesmo tempo de uso;
+		- Nenhuma ou pouca lógica necessária;
+		- Baixo custo;
+	- Barramentos assíncronos: não usam clock para sincronizar informações;
+		- A comunicação ocorre por *handshaking*, um processo de tempo automático;
+		- Dispositivos podem ter tempos diferentes;
+		- Adaptável a outras tecnologias;
+		- Precisa de mais lógica;
+		- Menor banda passante (quantidade de dados que pode ser distribuída em tal quantidade de tempo).
