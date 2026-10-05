@@ -8,7 +8,7 @@
 	- 3. Sistema Operacional (híbrido entre interpretação por microprogramas e por sistema operacional);
 	- 4. Linguagem de Montagem (linguagem simbólica para os outros níveis, seus programas são traduzidos para os outros níveis e interpretados em 0, o montador quem traduz este nível);
 	- 5. Linguagem de Alto Nível (por exemplo, C; traduz essas linguagens para alguma de mais baixo nível pelo compilador);
-	- 6+. Depende da aplicação, pode existir.
+	- 6+. Dependendo da aplicação, pode existir.
 
 - Hardware: conjunto de três elementos:
 	- Dispositivos de entrada / saída;
