@@ -21,3 +21,7 @@
 - Podem ser classificados em:
 	- Circuitos combinacionais: saída vem da entrada corrente - não armazena valores;
 	- Circuitos sequenciais: saída vem da entrada corrente e da entrada anterior - armazena memória;
+
+# Barramento:
+
+- 
