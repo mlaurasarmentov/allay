@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4c7ac4ebec4b5cec",
+        "id": "b2a6a01e8eef284d",
         "type": "tabs",
         "children": [
           {
-            "id": "21c070835054d99c",
+            "id": "d85906f705c15c62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FACULDADE/ARQUITETURA/eletrônica digital.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "eletrônica digital"
-            }
-          },
-          {
-            "id": "27858ea5def95889",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FACULDADE/ARQUITETURA/cisc x risc.md",
+                "file": "FACULDADE/POO/for each.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cisc x risc"
+              "title": "for each"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,12 +213,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "27858ea5def95889",
+  "active": "d85906f705c15c62",
   "lastOpenFiles": [
+    "FACULDADE/POO/for each.md",
     "FACULDADE/ARQUITETURA/eletrônica digital.md",
     "FACULDADE/ARQUITETURA/cisc x risc.md",
     "FACULDADE/ARQUITETURA/introdução.md",
-    "FACULDADE/ARQUITETURA/cisc x risc.md",
     "EXCALIDRAW/Drawing 2026-09-28 15.50.34.excalidraw.md",
     "TRILHA/backend.md",
     "FACULDADE/PACODE/soma de prefixos e max subarray sum.md",
