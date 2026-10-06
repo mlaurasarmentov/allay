@@ -19,4 +19,23 @@
 	- Fina: unidades pequenas;
 	- Média: unidades médias;
 	- Grossa: unidades grandes.
-- 
+- SpeedUp: indica o aumento de desempenho;
+	- Cálculo: tempo de execução em um processador / tempo de execução em p processadores;
+- Eficiência: SpeedUp / p;
+
+# Pipeline: 
+
+Técnica usada em processadores para executar vários estágios de instruções ao mesmo tempo;
+- Ganho: tempo sem pipeline / tempo com pipeline;
+- MIPS: exige 5 etapas:
+	- 1. Buscar instrução;
+	- Ler registradores;
+	- Executar instrução / calcular endereço;
+	- Acessar operando;
+	- Escrever resultado em registrador;
+- Ciclo único x Pipeline:
+- Ciclo único:
+	- Cada instrução MIPS tem cinco estágios, levando 1 ciclo de clock (tempo entre instruções);
+	- O ciclo de clock deve ser igual ao *tempo total* da *instrução* mais lenta;
+- Pipeline:
+	- O ciclo de clock deve ser igual ao tempo de duração do *estágio* mais lento;
