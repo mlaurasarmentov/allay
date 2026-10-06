@@ -28,7 +28,13 @@
 - Bancos noSQL: documental, grafos, chave-valor, vetorial...;
 	- Usado para dados que não são exatamente uniformes, não têm a mesma estrutura;
 - JDBC: conecta código à plataforma de dados;
-- Leitura e escrita de arquivos: 
-	- Leitura com Scanner - adiciona-se a classe File;
-	- `File arquivo = *new* File("daddos.txt");`
-	- `Scanner leitor = *new* Scanner(arquivo);`
+
+## Leitura de arquivos:
+- Leitura com Scanner - adiciona-se a classe File;
+- `File arquivo = *new* File("daddos.txt");`
+- `Scanner leitor = *new* Scanner(arquivo);`
+- O Java não sabe se vai dar certo ou não, portanto, sempre devemos tratar essa leitura;
+- Preferem-se modalidades de arquivo com organização interna (CSV, Json...);
+
+## Escrita de arquivos:
+- 
