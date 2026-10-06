@@ -39,3 +39,15 @@ Técnica usada em processadores para executar vários estágios de instruções 
 	- O ciclo de clock deve ser igual ao *tempo total* da *instrução* mais lenta;
 - Pipeline:
 	- O ciclo de clock deve ser igual ao tempo de duração do *estágio* mais lento;
+
+|               Classe               | Busca | Leitura de registadores |  ULA  | Acesso a dados | Escrita de registradores | Tempo total |
+| :--------------------------------: | :---: | :---------------------: | :---: | :------------: | :----------------------: | :---------: |
+|                Load                | 200ps |          100ps          | 200ps |     200ps      |          100ps           |    800ps    |
+|               Store                | 200ps |          100ps          | 200ps |     200ps      |            -             |    700ps    |
+| Formato R (add, sub, and, or, slt) | 200ps |          100ps          | 200ps |       -        |          100ps           |    600ps    |
+|            Branch (beq)            | 200ps |          100ps          | 200ps |       -        |            -             |    500ps    |
+
+- Pipeline Hazards (riscos): quando a próxima instrução não pode ser executada no ciclo de clock seguinte;
+	- Estruturais:
+	- Dados:
+	- Controle:
