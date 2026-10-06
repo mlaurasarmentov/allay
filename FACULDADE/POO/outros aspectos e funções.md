@@ -1,4 +1,5 @@
-- Array (vetor): é um objeto:
+# Array (vetor): é um objeto:
+- Sobre arrays:
 	- `int[] array = {elementos}`
 	- `int[] array = new int[tamanho];` 
 	- Acesso a elementos: `array[índice]` 
@@ -12,9 +13,9 @@
 	- Matrizes! [linha] x [coluna]
 	- Cada chave interna representa uma linha;
 
-- Funções (subprogramas) / Métodos:
-	- Podem receber parâmetros e retornar uma saída;
-	- Em classes, recebem o nome "método";
+# Funções (subprogramas) / Métodos:
+- Podem receber parâmetros e retornar uma saída;
+- Em classes, recebem o nome "método";
 - Em Java: 
 	- Para usar, temos que declarar um novo objeto que use essa classe ou declarar o método como estático (`public static void a()`, por exemplo);
 	- Tudo referente à variável é passado por valor; 

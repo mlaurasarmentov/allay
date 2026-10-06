@@ -37,4 +37,11 @@
 - Preferem-se modalidades de arquivo com organização interna (CSV, Json...);
 
 ## Escrita de arquivos:
-- 
+- Processa os dados colocados no programa e os registra;
+- Sempre fechar o arquivo após a escrita;
+- FileWriter:
+	- `FileWriter fw = *new* FileWriter("dados.txt");
+	- `fw.write("Hello, world!");
+	- `fw.close;
+	Ou fazer com BufferedWriter (com true no final, ele adiciona conteúdo);
+	Ou fazer PrintWriter (usa uma interface parecida à do System.out);
