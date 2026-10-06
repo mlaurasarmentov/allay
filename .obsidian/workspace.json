@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FACULDADE/POO/for each.md",
+                "file": "FACULDADE/POO/recursão e arquivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "for each"
+              "title": "recursão e arquivos"
             }
           }
         ]
@@ -216,6 +216,7 @@
   "active": "d85906f705c15c62",
   "lastOpenFiles": [
     "FACULDADE/POO/for each.md",
+    "FACULDADE/POO/recursão e arquivos.md",
     "FACULDADE/ARQUITETURA/eletrônica digital.md",
     "FACULDADE/ARQUITETURA/cisc x risc.md",
     "FACULDADE/ARQUITETURA/introdução.md",
@@ -224,7 +225,6 @@
     "FACULDADE/PACODE/soma de prefixos e max subarray sum.md",
     "FACULDADE/PACODE/busca binária.md",
     "FACULDADE/POO/prova escrita.md",
-    "FACULDADE/POO/recursão e arquivos.md",
     "FACULDADE/POO/origem e estruturação.md",
     "FACULDADE/POO/ideias.md",
     "FACULDADE/POO/belarmino.canvas",
