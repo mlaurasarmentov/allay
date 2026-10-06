@@ -8,17 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d85906f705c15c62",
+            "id": "833ccf9c10747452",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "FACULDADE/POO/outros aspectos e funções.md",
-                "mode": "source",
-                "source": false
+                "file": "FACULDADE/POO/belarmino.canvas",
+                "viewState": {
+                  "x": 570.1819925758897,
+                  "y": 16.85358862286698,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "outros aspectos e funções"
+              "icon": "lucide-layout-dashboard",
+              "title": "belarmino"
             }
           }
         ]
@@ -83,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "94d6c987a4a10c10",
@@ -195,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,12 +218,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d85906f705c15c62",
+  "active": "833ccf9c10747452",
   "lastOpenFiles": [
+    "FACULDADE/POO/belarmino.canvas",
+    "FACULDADE/ARQUITETURA/lista de exercícios 1.md",
+    "FACULDADE/POO/outros aspectos e funções.md",
     "FACULDADE/POO/conversão, entrada e saída.md",
     "FACULDADE/POO/origem e estruturação.md",
-    "FACULDADE/POO/belarmino.canvas",
-    "FACULDADE/POO/outros aspectos e funções.md",
     "FACULDADE/POO/recursão e arquivos.md",
     "FACULDADE/POO/for each.md",
     "FACULDADE/ARQUITETURA/eletrônica digital.md",
@@ -244,7 +250,6 @@
     "TRILHA/estrutura de dados I.md",
     "TRILHA/estrutura de dados II.md",
     "TRILHA/plataforma de dados prática.md",
-    "TRILHA/catenary.md",
     "ROTAS/futuro.canvas",
     "ORGANIZAÇÃO/PROJETOS DA FACULDADE.canvas",
     "ROTAS",
