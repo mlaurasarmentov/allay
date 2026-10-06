@@ -54,3 +54,12 @@
 		- Adaptável a outras tecnologias;
 		- Precisa de mais lógica;
 		- Menor banda passante (quantidade de dados que pode ser distribuída em tal quantidade de tempo).
+		- Etapas:
+			- 0. Ativação do sinal de leitura / colocação do endereço;
+			- 1. Leitura;
+			- 2. Detecção do sinal e liberação da linha de dados;
+			- 3. Reconhecimento da liberação;
+			- 4. Memória coloca os dados na linha e ativa o sinal de dados prontos;
+			- 5. Dispositivo reconhece o sinal, lê os dados e ativa sinal de reconhecimento;
+			- 6. Memória detecta o sinal e libera as linhas de dados e os dados prontos;
+			- 7. O dispositivo detecta a liberação e desativa o sinal de reconhecimento;
