@@ -31,7 +31,7 @@
 
 ## Leitura de arquivos:
 - Leitura com Scanner - adiciona-se a classe File;
-- `File arquivo = *new* File("daddos.txt");`
+- `File arquivo = *new* File("dados.txt");`
 - `Scanner leitor = *new* Scanner(arquivo);`
 - O Java não sabe se vai dar certo ou não, portanto, sempre devemos tratar essa leitura;
 - Preferem-se modalidades de arquivo com organização interna (CSV, Json...);
