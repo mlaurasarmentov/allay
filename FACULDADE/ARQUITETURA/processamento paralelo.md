@@ -5,6 +5,8 @@
 - Há duas maneiras de resolver esse problema:
 	- Modelos mais simples (menos precisos);
 	- Arquiteturas paralelas / especiais.
+	- aura
+	- laura
 
 # Arquiteturas paralelas:
 
