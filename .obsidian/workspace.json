@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FACULDADE/ARQUITETURA/processamento paralelo.md",
+                "file": "FACULDADE/ARQUITETURA/cisc x risc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "processamento paralelo"
+              "title": "cisc x risc"
             }
           }
         ],
@@ -231,13 +231,13 @@
   },
   "active": "ddd915383b4c77f0",
   "lastOpenFiles": [
-    "FACULDADE/ARQUITETURA/eletrônica digital.md",
-    "FACULDADE/ARQUITETURA/cisc x risc.md",
     "FACULDADE/ARQUITETURA/processamento paralelo.md",
+    "FACULDADE/ARQUITETURA/cisc x risc.md",
+    "FACULDADE/ARQUITETURA/lista de exercícios 1.md",
+    "FACULDADE/ARQUITETURA/eletrônica digital.md",
     "ORGANIZAÇÃO/pesquisar.md",
     "FACULDADE/POO/belarmino.canvas",
     "FACULDADE/POO/recursão e arquivos.md",
-    "FACULDADE/ARQUITETURA/lista de exercícios 1.md",
     "FACULDADE/POO/outros aspectos e funções.md",
     "FACULDADE/POO/conversão, entrada e saída.md",
     "FACULDADE/POO/origem e estruturação.md",

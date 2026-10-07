@@ -21,18 +21,19 @@
 	- Grossa: unidades grandes.
 - SpeedUp: indica o aumento de desempenho;
 	- Cálculo: tempo de execução em um processador / tempo de execução em p processadores;
+	- Tempo novo de comando / Tempo velho de comando;
 - Eficiência: SpeedUp / p;
 
 # Pipeline: 
 
 Técnica usada em processadores para executar vários estágios de instruções ao mesmo tempo;
 - Ganho: tempo sem pipeline / tempo com pipeline;
-- MIPS: exige 5 etapas:
-	- 1. Buscar instrução;
-	- Ler registradores;
-	- Executar instrução / calcular endereço;
-	- Acessar operando;
-	- Escrever resultado em registrador;
+- MIPS (RISC-V): exige 5 etapas:
+	- 1. IF (Instruction Fetch): buscar instrução;
+	- 2. ID (Instruction Decode): ler registradores;
+	- 3. EX (Execution): executar instrução / calcular endereço;
+	- 4. MEM (Memory Access): acessar operando;
+	- 5. WB (Write Back): escrever resultado em registrador;
 - Ciclo único x Pipeline:
 - Ciclo único:
 	- Cada instrução MIPS tem cinco estágios, levando 1 ciclo de clock (tempo entre instruções);
