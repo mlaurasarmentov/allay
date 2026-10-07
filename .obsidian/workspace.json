@@ -15,8 +15,8 @@
               "state": {
                 "file": "FACULDADE/POO/belarmino.canvas",
                 "viewState": {
-                  "x": 570.1819925758897,
-                  "y": 16.85358862286698,
+                  "x": 530.4327707741319,
+                  "y": 180.80787882227145,
                   "zoom": 0
                 }
               },
@@ -38,8 +38,7 @@
               "title": "processamento paralelo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "94d6c987a4a10c10",
@@ -233,11 +231,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ddd915383b4c77f0",
+  "active": "833ccf9c10747452",
   "lastOpenFiles": [
+    "FACULDADE/ARQUITETURA/processamento paralelo.md",
     "FACULDADE/POO/belarmino.canvas",
     "FACULDADE/POO/recursão e arquivos.md",
-    "FACULDADE/ARQUITETURA/processamento paralelo.md",
     "FACULDADE/ARQUITETURA/lista de exercícios 1.md",
     "FACULDADE/POO/outros aspectos e funções.md",
     "FACULDADE/POO/conversão, entrada e saída.md",
