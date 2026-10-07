@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ORGANIZAÇÃO/pesquisar.md",
+                "file": "FACULDADE/ARQUITETURA/processamento paralelo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pesquisar"
+              "title": "processamento paralelo"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FACULDADE/LÓGICA/ARQUITETURA/processamento paralelo.md",
+                "file": "FACULDADE/ARQUITETURA/cisc x risc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "processamento paralelo"
+              "title": "cisc x risc"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,19 +229,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "833ccf9c10747452",
+  "active": "ddd915383b4c77f0",
   "lastOpenFiles": [
+    "FACULDADE/ARQUITETURA/processamento paralelo.md",
+    "FACULDADE/ARQUITETURA/eletrônica digital.md",
+    "FACULDADE/ARQUITETURA/cisc x risc.md",
+    "ORGANIZAÇÃO/pesquisar.md",
     "FACULDADE/POO/belarmino.canvas",
-    "FACULDADE/LÓGICA/ARQUITETURA/processamento paralelo.md",
     "FACULDADE/POO/recursão e arquivos.md",
-    "FACULDADE/LÓGICA/ARQUITETURA/lista de exercícios 1.md",
+    "FACULDADE/ARQUITETURA/lista de exercícios 1.md",
     "FACULDADE/POO/outros aspectos e funções.md",
     "FACULDADE/POO/conversão, entrada e saída.md",
     "FACULDADE/POO/origem e estruturação.md",
     "FACULDADE/POO/for each.md",
-    "FACULDADE/LÓGICA/ARQUITETURA/eletrônica digital.md",
-    "FACULDADE/LÓGICA/ARQUITETURA/cisc x risc.md",
-    "FACULDADE/LÓGICA/ARQUITETURA/introdução.md",
+    "FACULDADE/ARQUITETURA/introdução.md",
     "EXCALIDRAW/Drawing 2026-09-28 15.50.34.excalidraw.md",
     "TRILHA/backend.md",
     "FACULDADE/PACODE/soma de prefixos e max subarray sum.md",
@@ -253,11 +255,10 @@
     "FACULDADE/PACODE/linguagem, complexidade e STL.md",
     "FACULDADE/PACODE/introdução.md",
     "ORGANIZAÇÃO/geral.canvas",
-    "FACULDADE/LÓGICA/ARQUITETURA",
+    "FACULDADE/ARQUITETURA",
     "TRILHA/programação orientada a objetos.md",
     "TRILHA/share learning - ALGORITMOS!.md",
     "TRILHA/introdução a machine learning.md",
-    "ORGANIZAÇÃO/pesquisar.md",
     "TRILHA/estrutura de dados I.md",
     "TRILHA/estrutura de dados II.md",
     "ROTAS/futuro.canvas",

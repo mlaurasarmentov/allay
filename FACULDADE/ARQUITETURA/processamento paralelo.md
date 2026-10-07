@@ -48,6 +48,6 @@ Técnica usada em processadores para executar vários estágios de instruções 
 |            Branch (beq)            | 200ps |          100ps          | 200ps |       -        |            -             |    500ps    |
 
 - Pipeline Hazards (riscos): quando a próxima instrução não pode ser executada no ciclo de clock seguinte;
-	- Estruturais:
-	- Dados:
-	- Controle:
+	- Estruturais: o hardware não permite a combinação de instruções no mesmo ciclo de clock (exemplo: dois acessos de memória);
+	- Dados: o pipeline precisa ser interrompido enquanto um estágio está sendo concluído (solucionado por *fowarding* ou *bypassing*);
+	- Controle: tomada de decisão baseada nos resultados de uma outra instrução enquanto outras estão sendo feitas (solução: bolha, instrução de desvio ou previsão - coloca-se NOPs para software, curto circuito para hardware);
