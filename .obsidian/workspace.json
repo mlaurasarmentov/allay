@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FACULDADE/ARQUITETURA/introdução.md",
+                "file": "FACULDADE/ARQUITETURA/processamento paralelo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "introdução"
+              "title": "processamento paralelo"
             }
           }
         ],
@@ -231,10 +231,12 @@
   },
   "active": "ddd915383b4c77f0",
   "lastOpenFiles": [
-    "FACULDADE/ARQUITETURA/processamento paralelo.md",
-    "FACULDADE/ARQUITETURA/cisc x risc.md",
-    "FACULDADE/ARQUITETURA/lista de exercícios 1.md",
+    "FACULDADE/LÓGICA/sistemas e implicações.md",
     "FACULDADE/ARQUITETURA/eletrônica digital.md",
+    "FACULDADE/ARQUITETURA/cisc x risc.md",
+    "FACULDADE/ARQUITETURA/introdução.md",
+    "FACULDADE/ARQUITETURA/processamento paralelo.md",
+    "FACULDADE/ARQUITETURA/lista de exercícios 1.md",
     "ORGANIZAÇÃO/pesquisar.md",
     "FACULDADE/POO/belarmino.canvas",
     "FACULDADE/POO/recursão e arquivos.md",
@@ -242,7 +244,6 @@
     "FACULDADE/POO/conversão, entrada e saída.md",
     "FACULDADE/POO/origem e estruturação.md",
     "FACULDADE/POO/for each.md",
-    "FACULDADE/ARQUITETURA/introdução.md",
     "EXCALIDRAW/Drawing 2026-09-28 15.50.34.excalidraw.md",
     "TRILHA/backend.md",
     "FACULDADE/PACODE/soma de prefixos e max subarray sum.md",
@@ -250,7 +251,6 @@
     "FACULDADE/POO/prova escrita.md",
     "FACULDADE/POO/ideias.md",
     "EXCALIDRAW",
-    "FACULDADE/LÓGICA/sistemas e implicações.md",
     "FACULDADE/LÓGICA",
     "FACULDADE/PACODE/linguagem, complexidade e STL.md",
     "FACULDADE/PACODE/introdução.md",
