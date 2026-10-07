@@ -4,6 +4,7 @@
 - feature engineering
 - algoritmos de redes neurais
 - entropia na computação
+- geração infinita
 
 flar
 - petrus

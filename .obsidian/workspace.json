@@ -11,17 +11,14 @@
             "id": "833ccf9c10747452",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "FACULDADE/POO/belarmino.canvas",
-                "viewState": {
-                  "x": 530.4327707741319,
-                  "y": 180.80787882227145,
-                  "zoom": 0
-                }
+                "file": "ORGANIZAÇÃO/pesquisar.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "belarmino"
+              "icon": "lucide-file",
+              "title": "pesquisar"
             }
           },
           {
@@ -30,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FACULDADE/ARQUITETURA/processamento paralelo.md",
+                "file": "FACULDADE/LÓGICA/ARQUITETURA/processamento paralelo.md",
                 "mode": "source",
                 "source": false
               },
@@ -233,17 +230,17 @@
   },
   "active": "833ccf9c10747452",
   "lastOpenFiles": [
-    "FACULDADE/ARQUITETURA/processamento paralelo.md",
     "FACULDADE/POO/belarmino.canvas",
+    "FACULDADE/LÓGICA/ARQUITETURA/processamento paralelo.md",
     "FACULDADE/POO/recursão e arquivos.md",
-    "FACULDADE/ARQUITETURA/lista de exercícios 1.md",
+    "FACULDADE/LÓGICA/ARQUITETURA/lista de exercícios 1.md",
     "FACULDADE/POO/outros aspectos e funções.md",
     "FACULDADE/POO/conversão, entrada e saída.md",
     "FACULDADE/POO/origem e estruturação.md",
     "FACULDADE/POO/for each.md",
-    "FACULDADE/ARQUITETURA/eletrônica digital.md",
-    "FACULDADE/ARQUITETURA/cisc x risc.md",
-    "FACULDADE/ARQUITETURA/introdução.md",
+    "FACULDADE/LÓGICA/ARQUITETURA/eletrônica digital.md",
+    "FACULDADE/LÓGICA/ARQUITETURA/cisc x risc.md",
+    "FACULDADE/LÓGICA/ARQUITETURA/introdução.md",
     "EXCALIDRAW/Drawing 2026-09-28 15.50.34.excalidraw.md",
     "TRILHA/backend.md",
     "FACULDADE/PACODE/soma de prefixos e max subarray sum.md",
@@ -256,7 +253,7 @@
     "FACULDADE/PACODE/linguagem, complexidade e STL.md",
     "FACULDADE/PACODE/introdução.md",
     "ORGANIZAÇÃO/geral.canvas",
-    "FACULDADE/ARQUITETURA",
+    "FACULDADE/LÓGICA/ARQUITETURA",
     "TRILHA/programação orientada a objetos.md",
     "TRILHA/share learning - ALGORITMOS!.md",
     "TRILHA/introdução a machine learning.md",
