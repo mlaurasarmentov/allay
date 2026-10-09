@@ -198,8 +198,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -225,7 +225,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4a26da9ecdfd64f4",
+  "active": "14625ae93a61f908",
   "lastOpenFiles": [
     "TRILHA/banco de dados.md",
     "FACULDADE/PACODE/two pointers e difference array.md",

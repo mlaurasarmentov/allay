@@ -45,7 +45,9 @@
 		- Isolamento: faz processos separados de forma isolada e, depois, junta-os;
 		- Durabilidade: garante que as informações de uma transação, depois de confirmada, continue salva;
 - Índice: normalmente é sequencial, permite acesso por busca binária, adicionando uma coluna a mais;
-	- 
+	- Mais rápido que a busca um por um;
+	- Aumenta muito o peso do banco de dados;
+	- Raiz -> Nível 2 -> Folha -> Tabela.
 - UUID (PK): um ID que nunca muda, serve para guardar sempre o endereço de um registro - é o verdadeiro campo de identificação (quando deletado, normalmente, só fica "invisível" e foda-se (palavras de João));
 - SQL: é declarativo, é a linguagem do banco;
 	- DDL: define estrutura;
