@@ -45,10 +45,14 @@
 		- Isolamento: faz processos separados de forma isolada e, depois, junta-os;
 		- Durabilidade: garante que as informações de uma transação, depois de confirmada, continue salva;
 - Índice: normalmente é sequencial, permite acesso por busca binária, adicionando uma coluna a mais;
+	- 
 - UUID (PK): um ID que nunca muda, serve para guardar sempre o endereço de um registro - é o verdadeiro campo de identificação (quando deletado, normalmente, só fica "invisível" e foda-se (palavras de João));
 - SQL: é declarativo, é a linguagem do banco;
 	- DDL: define estrutura;
 	- DML: mexe nos dados;
 	- DQL: consulta os dados;
 	- DCL: controla acesso.
+- Tipos de bancos de dados:
+	- 
 
+- Docker e containeres:
