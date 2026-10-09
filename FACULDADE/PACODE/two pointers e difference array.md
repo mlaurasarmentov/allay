@@ -6,4 +6,6 @@
 
 # Lógica: difference array
 
-- 
+- Salva o valor da soma de seus anteriores;
+- Faz um intervalo com a soma;
+- Sempre tem zeros, um número positivo e seu inverso (negativo);
