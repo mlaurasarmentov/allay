@@ -55,6 +55,17 @@
 	- DQL: consulta os dados;
 	- DCL: controla acesso.
 - Tipos de bancos de dados:
-	- 
-
-- Docker e containeres:
+	- Os tipos de NoSQL:
+		- Chave-valor (Redis);
+		- Documento (MongoDB);
+		- Colunar (Cassandra);
+		- Grafo (Neo4j);
+		- Séries temporais (InfluxDB).
+	- SQL ou NoSQL:
+		- SQL -> dados seguem padrão fixo, são consistentes;
+		- NoSQL -> dados não têm estrutura fixa, o volume é muito grande.
+- Docker e container:
+	- É uma forma de empacotar um programa com tudo que ele precisa para rodar;
+	- É como uma máquina virtual que roda no seu próprio computador, para aplicações menores;
+	- É um espaço separado!
+	- Procurar Orbztack.
