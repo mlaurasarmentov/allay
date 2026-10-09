@@ -32,6 +32,12 @@
 - Estruturados: formato fixo (linhas e colunas);
 - Semiestruturados: tem estrutura, mas cada registro pode ter campos diferentes (pode ter tipos diferentes por registo);
 - Não estruturados: sem organização e sem formato definido - o banco guarda, mas não entende o conteúdo;
-### Dados relacionais:
-- Tabelas: cada tabela tem nome único, linhas e colunas;
-- Dados relacionados: 
+- Banco relacional:
+	- Tabelas: cada tabela tem nome único, linhas e colunas;
+	- Dados relacionados: tabelas se conectam por chaves - PK (chave primária) identifica cada registros, FK (chave estrangeira) aponta parq o PK de outra tabela;
+	- Usa operações básicas de manipulação por queries;
+		- Hard delete: exclusão total de dados;
+		- Soft delete: dados recebem uma flag de "apagado", mas os dados continuam.
+	- Faz o processamento de consultas;
+- Índice: normalmente é sequencial, permite acesso por busca binária, adicionando uma coluna a mais;
+- 
