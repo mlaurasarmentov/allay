@@ -8,17 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ddd915383b4c77f0",
+            "id": "a1a3db97b5133d36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FACULDADE/ARQUITETURA/processamento paralelo.md",
+                "file": "FACULDADE/PACODE/two pointers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "processamento paralelo"
+              "title": "two pointers"
+            }
+          },
+          {
+            "id": "46dc561617b7dea6",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://app.todoist.com/app/inbox?locale=pt"
+              },
+              "icon": "lucide-file",
+              "title": "Todoist"
             }
           }
         ]
@@ -195,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,10 +225,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ddd915383b4c77f0",
+  "active": "a1a3db97b5133d36",
   "lastOpenFiles": [
-    "FACULDADE/CÁLCULO II/Untitled.md",
+    "FACULDADE/PACODE/two pointers.md",
     "FACULDADE/ARQUITETURA/processamento paralelo.md",
+    "FACULDADE/CÁLCULO II/Untitled.md",
     "Untitled",
     "CÁLCULO II.md",
     "FACULDADE/CÁLCULO II",
@@ -248,7 +260,6 @@
     "FACULDADE/ARQUITETURA",
     "TRILHA/programação orientada a objetos.md",
     "TRILHA/share learning - ALGORITMOS!.md",
-    "TRILHA/introdução a machine learning.md",
     "ROTAS/futuro.canvas",
     "ORGANIZAÇÃO/PROJETOS DA FACULDADE.canvas",
     "ROTAS",
