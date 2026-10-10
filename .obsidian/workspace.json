@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TRILHA/banco de dados.md",
+                "file": "FACULDADE/POO/recursão e arquivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "banco de dados"
+              "title": "recursão e arquivos"
             }
           },
           {
@@ -227,6 +227,8 @@
   },
   "active": "4a26da9ecdfd64f4",
   "lastOpenFiles": [
+    "FACULDADE/POO/outros aspectos e funções.md",
+    "FACULDADE/POO/recursão e arquivos.md",
     "TRILHA/banco de dados.md",
     "FACULDADE/PACODE/two pointers e difference array.md",
     "FACULDADE/ARQUITETURA/processamento paralelo.md",
@@ -242,8 +244,6 @@
     "FACULDADE/ARQUITETURA/lista de exercícios 1.md",
     "ORGANIZAÇÃO/pesquisar.md",
     "FACULDADE/POO/belarmino.canvas",
-    "FACULDADE/POO/recursão e arquivos.md",
-    "FACULDADE/POO/outros aspectos e funções.md",
     "FACULDADE/POO/conversão, entrada e saída.md",
     "FACULDADE/POO/origem e estruturação.md",
     "FACULDADE/POO/for each.md",
