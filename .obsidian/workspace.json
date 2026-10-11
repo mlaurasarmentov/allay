@@ -27,13 +27,14 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://app.todoist.com/app/inbox?locale=pt"
+                "url": "https://app.todoist.com/app/today"
               },
               "icon": "lucide-file",
-              "title": "Inbox – Todoist"
+              "title": "Surfing"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,10 +226,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4a26da9ecdfd64f4",
+  "active": "46dc561617b7dea6",
   "lastOpenFiles": [
-    "FACULDADE/POO/outros aspectos e funções.md",
     "FACULDADE/POO/recursão e arquivos.md",
+    "FACULDADE/POO/outros aspectos e funções.md",
     "TRILHA/banco de dados.md",
     "FACULDADE/PACODE/two pointers e difference array.md",
     "FACULDADE/ARQUITETURA/processamento paralelo.md",
