@@ -8,37 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29de3322762c6de3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "ORGANIZAÇÃO/geral.canvas",
-                "viewState": {
-                  "x": 321,
-                  "y": 173,
-                  "zoom": -0.708758605050493
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "geral"
-            }
-          },
-          {
-            "id": "84eca48ef4827419",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TaskNotes/Start Here.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Start Here"
-            }
-          },
-          {
             "id": "46dc561617b7dea6",
             "type": "leaf",
             "state": {
@@ -47,25 +16,10 @@
                 "url": "https://app.todoist.com/app/today"
               },
               "icon": "lucide-file",
-              "title": "Today – Todoist"
-            }
-          },
-          {
-            "id": "a88562833f2636ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FACULDADE/POO/origem e estruturação.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "origem e estruturação"
+              "title": "Surfing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,20 +208,17 @@
       "obsidian-statusbar-pomo:Start pomodoro": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "tasknotes:Open mini calendar view": false,
-      "tasknotes:Open calendar view": false,
-      "tasknotes:Open tasks view": false,
-      "tasknotes:Open agenda view": false,
-      "tasknotes:Open Kanban board": false,
-      "tasknotes:Open Pomodoro timer": false,
-      "tasknotes:Open Pomodoro statistics": false,
-      "tasknotes:Create new task": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "84eca48ef4827419",
+  "active": "c34e536414f0e170",
   "lastOpenFiles": [
+    "ORGANIZAÇÃO/ideias.md",
+    "ORGANIZAÇÃO/horários.md",
     "ORGANIZAÇÃO/geral.canvas",
+    "ORGANIZAÇÃO/pesquisar.md",
+    "ORGANIZAÇÃO/projetos da faculdade.md",
+    "FACULDADE/POO/origem e eystruturação.md",
     "TaskNotes/Start Here.md",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/pomodoro-stats.base",
@@ -280,7 +230,6 @@
     "TaskNotes/Views",
     "TaskNotes",
     "FACULDADE/POO/exercícios para a primeira prova.md",
-    "FACULDADE/POO/origem e estruturação.md",
     "FACULDADE/POO/outros aspectos e funções.md",
     "FACULDADE/POO/recursão e arquivos.md",
     "TRILHA/banco de dados.md",
@@ -295,16 +244,12 @@
     "FACULDADE/ARQUITETURA/cisc x risc.md",
     "FACULDADE/ARQUITETURA/introdução.md",
     "FACULDADE/ARQUITETURA/lista de exercícios 1.md",
-    "ORGANIZAÇÃO/pesquisar.md",
     "FACULDADE/POO/belarmino.canvas",
     "FACULDADE/POO/conversão, entrada e saída.md",
     "FACULDADE/POO/for each.md",
     "EXCALIDRAW/Drawing 2026-09-28 15.50.34.excalidraw.md",
     "TRILHA/backend.md",
     "FACULDADE/PACODE/soma de prefixos e max subarray sum.md",
-    "FACULDADE/PACODE/busca binária.md",
-    "FACULDADE/POO/prova escrita.md",
-    "ORGANIZAÇÃO/ideias.md",
     "ROTAS/futuro.canvas",
     "ORGANIZAÇÃO/PROJETOS DA FACULDADE.canvas",
     "Pasted image 20260818115931.png",
