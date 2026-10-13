@@ -13,10 +13,10 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://app.todoist.com/app/today"
+                "url": "https://app.todoist.com/app/inbox"
               },
               "icon": "lucide-file",
-              "title": "Todoist"
+              "title": "Inbox – Todoist"
             }
           }
         ]
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "94d6c987a4a10c10",
@@ -193,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +213,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "efd12112a283b5a0",
+  "active": "46dc561617b7dea6",
   "lastOpenFiles": [
     "ORGANIZAÇÃO/ideias.md",
     "ORGANIZAÇÃO/horários.md",
