@@ -9,4 +9,8 @@
 - Instruções maiores, com várias linhas de código para uma tarefa e mais controle do programador. Porém, seus códigos são mais complexos;
 - Somente Load e Store acessam a memória;
 - Uma instrução por ciclo de clock;
-- Pipelining;
+- Pipelining.
+
+# Resumo completo (trabalho):
+
+![[RESUMO CISC X RISC.pdf]]

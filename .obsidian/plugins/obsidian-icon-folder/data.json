@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArchive",
       "LiAppWindow",
       "LiAlbum",
       "LiBadge",
@@ -35,5 +36,6 @@
   },
   "TRILHA": "LiBadge",
   "EXCALIDRAW": "LiAlbum",
-  "FACULDADE": "LiAppWindow"
+  "FACULDADE": "LiAppWindow",
+  "ARQUIVOS": "LiArchive"
 }
