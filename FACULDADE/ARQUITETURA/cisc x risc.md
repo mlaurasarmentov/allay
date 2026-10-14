@@ -13,4 +13,4 @@
 
 # Resumo completo (trabalho):
 
-![[https://github.com/mlaurasarmentov/allay/blob/a6869ce77ff9e2f797bfba596a7d5cfda6b8ef75/ARQUIVOS/RESUMO%20CISC%20X%20RISC.pdf]]
+!(Link do resumo para acesso no Github!)[https://github.com/mlaurasarmentov/allay/blob/a6869ce77ff9e2f797bfba596a7d5cfda6b8ef75/ARQUIVOS/RESUMO%20CISC%20X%20RISC.pdf]
