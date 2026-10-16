@@ -8,6 +8,7 @@
 	- Os retornos se completam pela fila de tarefas para completar;
 	- Exemplos: fatorial e fibonacci;
 - É mais lenta que uma função iterativa;
+- Importante para questões de força bruta;
 - Pilha recursiva;
 - Cuidados: 
 	- Normalmente, todos os casos são salvos, de modo que gasta muita memória;
