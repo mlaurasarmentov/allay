@@ -12,9 +12,15 @@
 - Importante para questões de força bruta;
 - Pilha recursiva;
 - Montar árvore de recursão;
+- Pode ser usado para montagem de subconjuntos;
 - Cuidados: 
 	- Normalmente, todos os casos são salvos, de modo que gasta muita memória;
 	- Deve-se prestar atenção, a fim de não fazer uma função infinita;
 
 ### Anotações:
 - O c++ tem uma função nativa para permutações: next_permutation() - a entrada deve estar ordenada;
+
+# Backtracking:
+
+- Operações com recursão;
+- 
