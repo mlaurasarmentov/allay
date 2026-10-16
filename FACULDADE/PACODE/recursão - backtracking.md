@@ -24,4 +24,5 @@
 
 - Operações com recursão;
 - Inicia com uma solução vazia e percorre todos os caminhos possíveis até a resposta;
+- Problema das oito damas: como colocar, em um tabuleiro de xadrez, oito damas distintas, de modo que nenhuma delas ataque a outra?
 - 
