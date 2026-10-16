@@ -23,4 +23,5 @@
 # Backtracking:
 
 - Operações com recursão;
+- Inicia com uma solução vazia e percorre todos os caminhos possíveis até a resposta;
 - 
