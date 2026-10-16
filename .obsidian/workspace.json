@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FACULDADE/ARQUITETURA/primeira prova.md",
+                "file": "FACULDADE/PACODE/linguagem, complexidade e STL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "primeira prova"
+              "title": "linguagem, complexidade e STL"
+            }
+          },
+          {
+            "id": "11590de21108cdce",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://app.todoist.com/app/inbox?locale=pt"
+              },
+              "icon": "lucide-file",
+              "title": "Todoist"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,12 +226,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0821bed7498d7afb",
+  "active": "11590de21108cdce",
   "lastOpenFiles": [
+    "FACULDADE/PACODE/linguagem, complexidade e STL.md",
+    "FACULDADE/ARQUITETURA/primeira prova.md",
     "FACULDADE/ARQUITETURA/cisc x risc.md",
     "ARQUIVOS/RESUMO CISC X RISC 1.pdf",
     "FACULDADE/ARQUITETURA/introdução.md",
-    "FACULDADE/ARQUITETURA/primeira prova.md",
     "FACULDADE/ARQUITETURA/processamento paralelo.md",
     "ARQUIVOS",
     "FACULDADE/ARQUITETURA/eletrônica digital.md",
