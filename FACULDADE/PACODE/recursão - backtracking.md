@@ -15,3 +15,6 @@
 - Cuidados: 
 	- Normalmente, todos os casos são salvos, de modo que gasta muita memória;
 	- Deve-se prestar atenção, a fim de não fazer uma função infinita;
+
+### Anotações:
+- O c++ tem uma função nativa para permutações: next_permutation() - a entrada deve estar ordenada;
