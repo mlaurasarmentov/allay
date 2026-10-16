@@ -1,0 +1,2 @@
+- Cardinalidade: associação de componentes entre tabelas;
+- 
