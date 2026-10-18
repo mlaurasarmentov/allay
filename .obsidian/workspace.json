@@ -15,8 +15,8 @@
               "state": {
                 "file": "FACULDADE/POO/belarmino.canvas",
                 "viewState": {
-                  "x": 720.4328961693552,
-                  "y": -74.16950078405259,
+                  "x": 786.7752106842745,
+                  "y": -154.2316672711702,
                   "zoom": -0.051627280121596675
                 }
               },
@@ -229,7 +229,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "11590de21108cdce",
+  "active": "efd12112a283b5a0",
   "lastOpenFiles": [
     "FACULDADE/POO/belarmino.canvas",
     "TRILHA/prática - backend e banco de dados.md",
