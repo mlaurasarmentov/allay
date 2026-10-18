@@ -33,10 +33,11 @@
                 "url": "https://app.todoist.com/app/inbox?locale=pt"
               },
               "icon": "lucide-file",
-              "title": "Inbox – Todoist"
+              "title": "Todoist"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +229,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "11590de21108cdce",
+  "active": "71d15790e78c42f8",
   "lastOpenFiles": [
     "FACULDADE/POO/belarmino.canvas",
     "TRILHA/prática - backend e banco de dados.md",
