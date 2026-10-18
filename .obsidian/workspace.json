@@ -28,10 +28,12 @@
             "id": "71d15790e78c42f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "surfing-view",
+              "state": {
+                "url": "https://app.todoist.com/app/inbox?locale=pt"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Todoist"
             }
           }
         ],
