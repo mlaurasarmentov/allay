@@ -15,8 +15,8 @@
               "state": {
                 "file": "FACULDADE/POO/belarmino.canvas",
                 "viewState": {
-                  "x": 958.4313465174939,
-                  "y": -84.03988497524755,
+                  "x": 700.6999333143441,
+                  "y": 411.0318768011778,
                   "zoom": -0.051627280121596675
                 }
               },
@@ -33,11 +33,23 @@
                 "url": "https://app.todoist.com/app/inbox?locale=pt"
               },
               "icon": "lucide-file",
-              "title": "Todoist"
+              "title": "Inbox – Todoist"
+            }
+          },
+          {
+            "id": "3a8282c07c55402e",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://mcc.live/"
+              },
+              "icon": "lucide-file",
+              "title": "MCC Live"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "94d6c987a4a10c10",
@@ -211,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,7 +243,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "71d15790e78c42f8",
+  "active": "3a8282c07c55402e",
   "lastOpenFiles": [
     "FACULDADE/POO/belarmino.canvas",
     "TRILHA/prática - backend e banco de dados.md",
