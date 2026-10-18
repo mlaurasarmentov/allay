@@ -15,8 +15,8 @@
               "state": {
                 "file": "FACULDADE/POO/belarmino.canvas",
                 "viewState": {
-                  "x": 700.6999333143441,
-                  "y": 411.0318768011778,
+                  "x": 720.4328961693552,
+                  "y": -74.16950078405259,
                   "zoom": -0.051627280121596675
                 }
               },
@@ -35,21 +35,8 @@
               "icon": "lucide-file",
               "title": "Inbox – Todoist"
             }
-          },
-          {
-            "id": "3a8282c07c55402e",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://mcc.live/"
-              },
-              "icon": "lucide-file",
-              "title": "MCC Live"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,7 +229,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3a8282c07c55402e",
+  "active": "11590de21108cdce",
   "lastOpenFiles": [
     "FACULDADE/POO/belarmino.canvas",
     "TRILHA/prática - backend e banco de dados.md",
