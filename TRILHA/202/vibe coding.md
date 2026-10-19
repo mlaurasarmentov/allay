@@ -1,0 +1,2 @@
+- Com a evolução dos modelos de IA, começaram a usar agentes para codificar sozinhos, sem a leitura humana do código, em estilo "accept all";
+- 
