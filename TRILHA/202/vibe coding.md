@@ -1,2 +1,2 @@
 - Com a evolução dos modelos de IA, começaram a usar agentes para codificar sozinhos, sem a leitura humana do código, em estilo "accept all";
-- 
+- Faz-se a distinção entre vibe coding e engenharia agêntica quando o programador entende o código escrito por IA e completa uma bateria de testes dignificativa;
