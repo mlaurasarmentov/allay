@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11590de21108cdce",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "FACULDADE/POO/belarmino.canvas",
-                "viewState": {
-                  "x": 786.7752106842745,
-                  "y": -154.2316672711702,
-                  "zoom": -0.051627280121596675
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "belarmino"
-            }
-          },
-          {
             "id": "71d15790e78c42f8",
             "type": "leaf",
             "state": {
@@ -33,7 +16,7 @@
                 "url": "https://app.todoist.com/app/inbox?locale=pt"
               },
               "icon": "lucide-file",
-              "title": "Inbox – Todoist"
+              "title": "Todoist"
             }
           }
         ]
@@ -98,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "94d6c987a4a10c10",
@@ -229,7 +211,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "efd12112a283b5a0",
+  "active": "71d15790e78c42f8",
   "lastOpenFiles": [
     "FACULDADE/POO/belarmino.canvas",
     "TRILHA/prática - backend e banco de dados.md",
