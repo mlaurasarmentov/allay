@@ -23,18 +23,33 @@
             "id": "c3a39a28c69c412d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "FACULDADE/POO/programação orientada a objetos.md",
-                "mode": "source",
-                "source": false
+                "file": "FACULDADE/POO/belarmino.canvas",
+                "viewState": {
+                  "x": 831,
+                  "y": 343.4378393106971,
+                  "zoom": -0.8912643604591195
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "belarmino"
+            }
+          },
+          {
+            "id": "0112050e257256f7",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://mcc.live/"
               },
               "icon": "lucide-file",
-              "title": "programação orientada a objetos"
+              "title": "MCC Live"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "94d6c987a4a10c10",
@@ -208,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,14 +243,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c3a39a28c69c412d",
+  "active": "0112050e257256f7",
   "lastOpenFiles": [
+    "FACULDADE/POO/belarmino.canvas",
+    "FACULDADE/POO/conversão, entrada e saída.md",
+    "FACULDADE/POO/programação orientada a objetos.md",
     "FACULDADE/POO/recursão e arquivos.md",
     "FACULDADE/POO/origem e estruturação.md",
-    "FACULDADE/POO/programação orientada a objetos.md",
     "TRILHA/202/vibe coding.md",
     "TRILHA/202",
-    "FACULDADE/POO/belarmino.canvas",
     "TRILHA/prática - backend e banco de dados.md",
     "FACULDADE/PACODE/recursão - backtracking.md",
     "FACULDADE/PACODE/linguagem, complexidade e STL.md",
@@ -264,8 +282,6 @@
     "FACULDADE/CÁLCULO II/Untitled.md",
     "CÁLCULO II.md",
     "FACULDADE/Untitled.md",
-    "FACULDADE/LÓGICA/sistemas e implicações.md",
-    "FACULDADE/ARQUITETURA/lista de exercícios 1.md",
     "ROTAS/futuro.canvas",
     "ORGANIZAÇÃO/PROJETOS DA FACULDADE.canvas",
     "Pasted image 20260818115931.png",
