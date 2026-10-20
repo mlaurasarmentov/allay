@@ -1,8 +1,10 @@
-# Programação OO:
+# Programação Orientada a Objetos:
 
 - Usa dados locais / pertencentes a objetos - vários procedimentos podem ser associados a eles;
 	- Cada objeto tem um conjunto de estados;
 	- Assim, comumente, não se usam dados globais.
+- 
+- Usa alguns conceitos básicos para o seu manuseio:
 
 ## Pilares de POO:
 - Abstração: a representação de objetos, remete a um objeto, é uma generalização;
@@ -14,7 +16,9 @@
 	- Funciona por acesso indireto, para não corromper o dado;
 	- "Para uma abstração dar certo, sua implementação deve ser *encapsulada*".
 - Herança: permite que um objeto ganhe métodos e características de outros objetos - ganham uma relação hierárquica entre si;
+	- Classe mãe: super classe.
+- Polimorfismo: diferentes formas para um mesmo método - a mesma função, dependendo do contexto, pode se manifestar de modos diferentes;
 - Classe: 
-	- Propriedades: características gerais de objetos dessa classe;
-	- Métodos: ações que podem ser realizadas com os objetos dessa classe.
-- Objeto:
+	- Propriedades (estados): características gerais de objetos dessa classe;
+	- Métodos (comportamentos / operações): ações que podem ser realizadas com os objetos dessa classe.
+- Objeto: é a abstração de algo do mundo real, colocada na memória do computador e, assim, cabível de processamentos;
