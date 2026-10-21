@@ -39,10 +39,14 @@
             "id": "f5c2044be8256daf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TRILHA/202/github e vercel.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "github e vercel"
             }
           },
           {
@@ -257,6 +261,7 @@
   },
   "active": "f5c2044be8256daf",
   "lastOpenFiles": [
+    "TRILHA/202/github e vercel.md",
     "FACULDADE/LÓGICA/formas normais.md",
     "FACULDADE/ARQUITETURA/Untitled.md",
     "FACULDADE/LÓGICA/sistemas e implicações.md",
@@ -294,7 +299,6 @@
     "FACULDADE/POO/outros aspectos e funções.md",
     "TRILHA/banco de dados.md",
     "FACULDADE/PACODE/two pointers e difference array.md",
-    "FACULDADE/CÁLCULO II/Untitled.md",
     "ROTAS/futuro.canvas",
     "ORGANIZAÇÃO/PROJETOS DA FACULDADE.canvas",
     "Pasted image 20260818115931.png",
