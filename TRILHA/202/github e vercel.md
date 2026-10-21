@@ -13,3 +13,4 @@
 - Sempre que chega um push, a vercel pega a nova foto do push, prepara a página e publica (agentes só dão push caso sejam pedidos);
 - Deploy: ato de pôr uma versão de um site no ar;
 - Para saber se uma mudança chegou no site, abre-se seu link público, não a versão de uma máquina;
+- Cuidados sobre repositório público: mesmo depois de deleção de arquivos, por exemplo, o histórico ficará salvo nas versões anteriores;
