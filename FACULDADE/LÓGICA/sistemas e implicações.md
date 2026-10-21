@@ -12,6 +12,5 @@ sistema -> operadores (5)
 - **Árvore semântica:** diminuição de linhas da tabela verdade;
 	- Sempre começa com a proposição simples;
 	- O nó principal só abre dois nodos / arestas;
-	- Os últimos nós apresentam a interpretação de acordo com o caminho determinado (nó-folha);
-	- 
+	- Os últimos nós apresentam a interpretação de acordo com o caminho determinado (nó-folha).
 	  
