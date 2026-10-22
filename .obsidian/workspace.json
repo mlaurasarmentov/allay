@@ -11,10 +11,26 @@
             "id": "4341fba67a1aaaca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "FACULDADE/POO/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "d88b3a7f71b8856b",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://app.todoist.com/app/inbox?locale=pt"
+              },
+              "icon": "lucide-file",
+              "title": "Inbox – Todoist"
             }
           }
         ]
@@ -211,7 +227,8 @@
   },
   "active": "4341fba67a1aaaca",
   "lastOpenFiles": [
-    "links importantes.md",
+    "FACULDADE/POO/Untitled.md",
+    "TRILHA/202/links importantes.md",
     "FACULDADE/POO/belarmino.canvas",
     "TRILHA/202/github e vercel.md",
     "FACULDADE/LÓGICA/formas normais.md",
