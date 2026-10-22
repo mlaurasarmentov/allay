@@ -4,70 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "45c6b63fc669dca8",
+        "id": "bf1bc8a8aa84a21f",
         "type": "tabs",
         "children": [
           {
-            "id": "71d15790e78c42f8",
+            "id": "4341fba67a1aaaca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FACULDADE/LÓGICA/sistemas e implicações.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "sistemas e implicações"
-            }
-          },
-          {
-            "id": "a80a88c1cab270d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FACULDADE/LÓGICA/formas normais.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "formas normais"
-            }
-          },
-          {
-            "id": "f5c2044be8256daf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TRILHA/202/github e vercel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "github e vercel"
-            }
-          },
-          {
-            "id": "c3a39a28c69c412d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "FACULDADE/POO/belarmino.canvas",
-                "viewState": {
-                  "x": 831,
-                  "y": 110.76850141118618,
-                  "zoom": -0.8912643604591195
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "belarmino"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,13 +209,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f5c2044be8256daf",
+  "active": "4341fba67a1aaaca",
   "lastOpenFiles": [
+    "links importantes.md",
+    "FACULDADE/POO/belarmino.canvas",
     "TRILHA/202/github e vercel.md",
     "FACULDADE/LÓGICA/formas normais.md",
     "FACULDADE/ARQUITETURA/Untitled.md",
     "FACULDADE/LÓGICA/sistemas e implicações.md",
-    "FACULDADE/POO/belarmino.canvas",
     "FACULDADE/POO/conversão, entrada e saída.md",
     "FACULDADE/POO/programação orientada a objetos.md",
     "FACULDADE/POO/recursão e arquivos.md",
@@ -297,8 +248,6 @@
     "TaskNotes/Views/kanban-default.base",
     "FACULDADE/POO/exercícios para a primeira prova.md",
     "FACULDADE/POO/outros aspectos e funções.md",
-    "TRILHA/banco de dados.md",
-    "FACULDADE/PACODE/two pointers e difference array.md",
     "ROTAS/futuro.canvas",
     "ORGANIZAÇÃO/PROJETOS DA FACULDADE.canvas",
     "Pasted image 20260818115931.png",

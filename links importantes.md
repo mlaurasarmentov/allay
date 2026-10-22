@@ -1,0 +1,1 @@
+- Referẽncias das aulas pelo claude: [referências](https://claude.ai/artifact/7tohzfcyWBLfKNVZE7DTDu#55d41fb9-de55) ;
