@@ -13,24 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FACULDADE/POO/Untitled.md",
+                "file": "FACULDADE/POO/programação orientada a objetos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "programação orientada a objetos"
             }
           },
           {
             "id": "d88b3a7f71b8856b",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "canvas",
               "state": {
-                "url": "https://app.todoist.com/app/inbox?locale=pt"
+                "file": "FACULDADE/POO/belarmino.canvas",
+                "viewState": {
+                  "x": 980.1252083476535,
+                  "y": 254.04774649503307,
+                  "zoom": -0.8912643604591195
+                }
               },
-              "icon": "lucide-file",
-              "title": "Inbox – Todoist"
+              "icon": "lucide-layout-dashboard",
+              "title": "belarmino"
             }
           }
         ]
@@ -183,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FACULDADE/PACODE/aula 2 - linguagem, complexidade e STL.md",
+                "file": "FACULDADE/POO/programação orientada a objetos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,18 +230,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4341fba67a1aaaca",
+  "active": "14625ae93a61f908",
   "lastOpenFiles": [
+    "FACULDADE/POO/recursão e arquivos.md",
     "FACULDADE/POO/Untitled.md",
-    "TRILHA/202/links importantes.md",
     "FACULDADE/POO/belarmino.canvas",
+    "TRILHA/202/links importantes.md",
     "TRILHA/202/github e vercel.md",
     "FACULDADE/LÓGICA/formas normais.md",
     "FACULDADE/ARQUITETURA/Untitled.md",
     "FACULDADE/LÓGICA/sistemas e implicações.md",
     "FACULDADE/POO/conversão, entrada e saída.md",
     "FACULDADE/POO/programação orientada a objetos.md",
-    "FACULDADE/POO/recursão e arquivos.md",
     "FACULDADE/POO/origem e estruturação.md",
     "TRILHA/202/vibe coding.md",
     "TRILHA/202",
@@ -264,7 +269,6 @@
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/kanban-default.base",
     "FACULDADE/POO/exercícios para a primeira prova.md",
-    "FACULDADE/POO/outros aspectos e funções.md",
     "ROTAS/futuro.canvas",
     "ORGANIZAÇÃO/PROJETOS DA FACULDADE.canvas",
     "Pasted image 20260818115931.png",

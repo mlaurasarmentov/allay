@@ -5,6 +5,8 @@
 	- Assim, comumente, não se usam dados globais.
 - Usa alguns conceitos básicos para o seu manuseio - os pilares de POO;
 
+## Pilares de POO:
+
 - Abstração: a representação de objetos, remete a um objeto, é uma generalização:
 	- É o processo de isolar ou de simplificar um conceito;
 	- Uma visualização ou representação de uma entidade que inclui somente os atributos de importância em um contexto particular;
