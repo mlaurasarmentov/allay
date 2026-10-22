@@ -25,21 +25,15 @@
             "id": "d88b3a7f71b8856b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "surfing-view",
               "state": {
-                "file": "FACULDADE/POO/belarmino.canvas",
-                "viewState": {
-                  "x": 684.3409306090812,
-                  "y": -192.3409603057445,
-                  "zoom": 0.33050074739953383
-                }
+                "url": "https://app.todoist.com/app/inbox?locale=pt"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "belarmino"
+              "icon": "lucide-file",
+              "title": "Inbox – Todoist"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FACULDADE/POO/belarmino.canvas",
+                "file": "FACULDADE/POO/programação orientada a objetos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -231,7 +225,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d88b3a7f71b8856b",
+  "active": "4341fba67a1aaaca",
   "lastOpenFiles": [
     "FACULDADE/POO/programação orientada a objetos.md",
     "FACULDADE/POO/belarmino.canvas",

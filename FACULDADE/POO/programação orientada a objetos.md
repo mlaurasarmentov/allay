@@ -17,7 +17,8 @@
 	- Esconde métricas e detalhes internos que não precisam ser acessados por entidades externas;
 	- "Para uma abstração dar certo, sua implementação deve ser *encapsulada*".
 - Herança: permite que um objeto ganhe métodos e características de outros objetos - ganham uma relação hierárquica entre si:
-	- Classe mãe: super classe.
+	- Classe mãe: super classe;
+	- Relação de "é um".
 - Polimorfismo: diferentes formas para um mesmo método - a mesma função, dependendo do contexto, pode se manifestar de modos diferentes;
 - Classe: comumente, cria-se com letra maiúscula:
 	- Propriedades (estados): características gerais de objetos dessa classe:
@@ -49,3 +50,8 @@
 	- `this.ladoA = ladoA;
 	  `this ladoB = ladoB;
 - *Static*: aqui, é usado para diferenciar escopo de classe e escopo de instância;
+
+## Composição / Delegação:
+- A capacidade de se criar várias classes, usando classes que já existem;
+- Classes podem ter outras classes como parâmetros em seus atributos;
+- Usado para aproveitar código - é uma relação de "tem um";
