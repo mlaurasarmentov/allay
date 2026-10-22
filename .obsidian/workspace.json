@@ -29,16 +29,17 @@
               "state": {
                 "file": "FACULDADE/POO/belarmino.canvas",
                 "viewState": {
-                  "x": 1120.0559845810358,
-                  "y": -266.25601931923853,
-                  "zoom": 0.1884786575836218
+                  "x": 684.3409306090812,
+                  "y": -192.3409603057445,
+                  "zoom": 0.33050074739953383
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "belarmino"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FACULDADE/POO/programação orientada a objetos.md",
+                "file": "FACULDADE/POO/belarmino.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -230,10 +231,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4341fba67a1aaaca",
+  "active": "d88b3a7f71b8856b",
   "lastOpenFiles": [
-    "FACULDADE/POO/belarmino.canvas",
     "FACULDADE/POO/programação orientada a objetos.md",
+    "FACULDADE/POO/belarmino.canvas",
     "FACULDADE/POO/recursão e arquivos.md",
     "FACULDADE/POO/Untitled.md",
     "TRILHA/202/links importantes.md",
