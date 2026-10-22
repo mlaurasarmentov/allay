@@ -29,9 +29,9 @@
               "state": {
                 "file": "FACULDADE/POO/belarmino.canvas",
                 "viewState": {
-                  "x": 980.1252083476535,
-                  "y": 254.04774649503307,
-                  "zoom": -0.8912643604591195
+                  "x": 1120.0559845810358,
+                  "y": -266.25601931923853,
+                  "zoom": 0.1884786575836218
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -230,18 +230,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "14625ae93a61f908",
+  "active": "4341fba67a1aaaca",
   "lastOpenFiles": [
+    "FACULDADE/POO/belarmino.canvas",
+    "FACULDADE/POO/programação orientada a objetos.md",
     "FACULDADE/POO/recursão e arquivos.md",
     "FACULDADE/POO/Untitled.md",
-    "FACULDADE/POO/belarmino.canvas",
     "TRILHA/202/links importantes.md",
     "TRILHA/202/github e vercel.md",
     "FACULDADE/LÓGICA/formas normais.md",
     "FACULDADE/ARQUITETURA/Untitled.md",
     "FACULDADE/LÓGICA/sistemas e implicações.md",
     "FACULDADE/POO/conversão, entrada e saída.md",
-    "FACULDADE/POO/programação orientada a objetos.md",
     "FACULDADE/POO/origem e estruturação.md",
     "TRILHA/202/vibe coding.md",
     "TRILHA/202",

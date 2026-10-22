@@ -13,7 +13,8 @@
 	- Esconder detalhes de implementação, expondo apenas uma interface simples.
 - Encapsulamento: é o processo de esconder os detalhes não necessários para um objeto:
 	- Explica como um atributo deve ser acessado, para não quebrar o programa;
-	- Funciona por acesso indireto, para não corromper o dado;
+	- Funciona por acesso indireto, para não corromper o dado - permite acesso controlado, para segurança, para organização etc.;
+	- Esconde métricas e detalhes internos que não precisam ser acessados por entidades externas;
 	- "Para uma abstração dar certo, sua implementação deve ser *encapsulada*".
 - Herança: permite que um objeto ganhe métodos e características de outros objetos - ganham uma relação hierárquica entre si:
 	- Classe mãe: super classe.
@@ -29,15 +30,22 @@
 	- É criado a partir de classe (pelo comando *new*) - baseia-se no que já foi definido;
 	- É instanciado na memória e tem seus dados únicos guardados;
 	- Comunicação entre objetos: usam mensagens para mandar requisições a diferentes objetos;
-
-- Modificadores de acesso:
-	- Public: pode ser usado por qualquer outra classe;
-	- Private: permite visibilidade apenas da própria classe;
-	- Default: nível de pacote (em JAVA, seria pasta), permite visibilidade dentro do próprio pacote (não exige escrita explícita);
-	- Protected: é como o Default, mas permite visibilidade global através de herança.
 - Métodos construtores: métodos base de alocação na memória;
 	- Podem definir e iniciar atributos / métodos diferentes dos padrões JAVA (0 em int, por exemplo);
 	- Quando se define um construtor, o padrão desaparece - precisa-se criá-lo explicitamente.
 - Métodos destrutores: são responsáveis por liberar recursos usados;
 	- Impedem vazamento de memória e crash;
 	- Em JAVA, a própria JVM faz esse processo de modo automático.
+
+## Palavras reservadas:
+- Modificadores de acesso:
+	- Public: pode ser usado por qualquer outra classe;
+	- Private: permite visibilidade apenas da própria classe;
+		- Em encapsulamento, faz-se o acesso por outros métodos, dentro da mesma classe (comumente, *get* e *set*);
+	- Default: nível de pacote (em JAVA, seria pasta), permite visibilidade dentro do próprio pacote (não exige escrita explícita);
+	- Protected: é como o Default, mas permite visibilidade global através de herança.
+- *This*: faz referência ao objeto corrente, isto é, ao objeto usado no momento;
+	- Ou seja, pega o atributo /  método com tal nome, em vez de, por exemplo, um parâmetro passado;
+	- `this.ladoA = ladoA;
+	  `this ladoB = ladoB;
+- *Static*: aqui, é usado para diferenciar escopo de classe e escopo de instância;
