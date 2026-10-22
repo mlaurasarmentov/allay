@@ -35,9 +35,9 @@
 	- Private: permite visibilidade apenas da própria classe;
 	- Default: nível de pacote (em JAVA, seria pasta), permite visibilidade dentro do próprio pacote (não exige escrita explícita);
 	- Protected: é como o Default, mas permite visibilidade global através de herança.
-- Construtores: métodos base de alocação na memória;
+- Métodos construtores: métodos base de alocação na memória;
 	- Podem definir e iniciar atributos / métodos diferentes dos padrões JAVA (0 em int, por exemplo);
 	- Quando se define um construtor, o padrão desaparece - precisa-se criá-lo explicitamente.
-- Destrutores: são responsáveis por liberar recursos usados;
+- Métodos destrutores: são responsáveis por liberar recursos usados;
 	- Impedem vazamento de memória e crash;
 	- Em JAVA, a própria JVM faz esse processo de modo automático.
