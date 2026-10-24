@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "ENETRIX"
             }
+          },
+          {
+            "id": "421559b5a17735c2",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://app.todoist.com/app/inbox?locale=pt"
+              },
+              "icon": "lucide-file",
+              "title": "Inbox – Todoist"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,7 +226,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ab16eaa59359bdf4",
+  "active": "c34e536414f0e170",
   "lastOpenFiles": [
     "FACULDADE/ENETRIX.md",
     "FACULDADE/POO/programação orientada a objetos.md",
