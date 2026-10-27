@@ -53,9 +53,15 @@
 ## Composição / Delegação:
 - A capacidade de se criar várias classes, usando classes que já existem;
 - Classes podem ter outras classes como parâmetros em seus atributos;
-- Usado para aproveitar código - é uma relação de "tem um";
+- Usado para aproveitar código - é uma relação de "tem um".
+
+## Herança:
+- A principal ferramenta de reuso em POO -> novas classes são criadas a partir de classes inexistentes;
+- Reutiliza todos os atributos e métodos não privados e pode adicionar novos recursos, separados da classe de origem;
+- 
 
 ### Anotações gerais:
 - No JAVA, há uma classe `LocalDate`, que guarda uma data específica instanciada;
 	- `nascimento = new LocalDate(...);`
 - Qualquer objeto pode vir com `null`, já que não é primitivo;
+- É boa prática sempre ter um id para seu objeto, como identificador;
