@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab16eaa59359bdf4",
+            "id": "421559b5a17735c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FACULDADE/ENETRIX.md",
+                "file": "FACULDADE/POO/programação orientada a objetos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ENETRIX"
-            }
-          },
-          {
-            "id": "421559b5a17735c2",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://app.todoist.com/app/inbox?locale=pt"
-              },
-              "icon": "lucide-file",
-              "title": "Todoist"
+              "title": "programação orientada a objetos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,10 +213,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c34e536414f0e170",
+  "active": "421559b5a17735c2",
   "lastOpenFiles": [
-    "FACULDADE/ENETRIX.md",
+    "FACULDADE/POO/outros aspectos e funções.md",
+    "FACULDADE/POO/conversão, entrada e saída.md",
+    "FACULDADE/CÁLCULO II/ray tracing in one weekend.md",
     "FACULDADE/POO/programação orientada a objetos.md",
+    "FACULDADE/ENETRIX.md",
     "FACULDADE/POO/belarmino.canvas",
     "FACULDADE/POO/recursão e arquivos.md",
     "FACULDADE/POO/Untitled.md",
@@ -238,7 +228,6 @@
     "FACULDADE/LÓGICA/formas normais.md",
     "FACULDADE/ARQUITETURA/Untitled.md",
     "FACULDADE/LÓGICA/sistemas e implicações.md",
-    "FACULDADE/POO/conversão, entrada e saída.md",
     "FACULDADE/POO/origem e estruturação.md",
     "TRILHA/202/vibe coding.md",
     "TRILHA/202",
@@ -258,14 +247,12 @@
     "ORGANIZAÇÃO/geral.canvas",
     "ORGANIZAÇÃO/pesquisar.md",
     "ORGANIZAÇÃO/projetos da faculdade.md",
-    "TaskNotes/Start Here.md",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/pomodoro-stats.base",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/kanban-default.base",
-    "FACULDADE/POO/exercícios para a primeira prova.md",
     "ROTAS/futuro.canvas",
     "ORGANIZAÇÃO/PROJETOS DA FACULDADE.canvas",
     "Pasted image 20260818115931.png",
