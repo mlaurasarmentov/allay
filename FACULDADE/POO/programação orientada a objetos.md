@@ -15,9 +15,6 @@
 	- Funciona por acesso indireto, para não corromper o dado - permite acesso controlado, para segurança, para organização etc.;
 	- Esconde métricas e detalhes internos que não precisam ser acessados por entidades externas;
 	- "Para uma abstração dar certo, sua implementação deve ser *encapsulada*".
-- Herança: permite que um objeto ganhe métodos e características de outros objetos - ganham uma relação hierárquica entre si:
-	- Classe mãe: super classe;
-	- Relação de "é um".
 - Polimorfismo: diferentes formas para um mesmo método - a mesma função, dependendo do contexto, pode se manifestar de modos diferentes;
 - Classe: comumente, cria-se com letra maiúscula:
 	- Propriedades (estados): características gerais de objetos dessa classe:
@@ -57,10 +54,21 @@
 
 ## Herança:
 - A principal ferramenta de reuso em POO -> novas classes são criadas a partir de classes inexistentes;
-- Reutiliza todos os atributos e métodos não privados e pode adicionar novos recursos, separados da classe de origem;
-- 
-
-### Anotações gerais:
+- Permite que um objeto ganhe métodos e características de outros objetos - ganham uma relação hierárquica entre si:
+- Reutiliza todos os atributos e métodos *não privados* e pode adicionar novos recursos, separados da classe de origem;
+- Relação de "um tipo de" / "é um";
+- Superclasse / classe-mãe: é a origem da subclasse / classe-filha, que carrega os atributos e os métodos da superclasse;
+- Uma subclasse também pode ser superclasse de outra classe;
+- `class nomeSubclasse extends nomeSuperclasse{}`;
+- Comando `super` referencia a classe-mãe -> pode chamar método ou somente referenciar;
+- A subclasse precisa ter, pelo menos, um construtor igual ao da superclasse;
+### Tipos de herança:
+- Simples: uma superclasse tem uma / várias subclasses;
+- Multinivel: há subclasses que são filhas de outras subclasses (em camadas, vários níveis);
+- Múltipla: classes que contém inúmeras superclasses;
+	- JAVA não suporta herança múltipla - sempre terá somente uma classe associada;
+	- Com interface, há como desviar essa limitação;
+## Anotações gerais:
 - No JAVA, há uma classe `LocalDate`, que guarda uma data específica instanciada;
 	- `nascimento = new LocalDate(...);`
 - Qualquer objeto pode vir com `null`, já que não é primitivo;
