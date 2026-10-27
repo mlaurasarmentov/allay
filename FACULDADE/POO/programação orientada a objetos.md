@@ -54,4 +54,8 @@
 - A capacidade de se criar várias classes, usando classes que já existem;
 - Classes podem ter outras classes como parâmetros em seus atributos;
 - Usado para aproveitar código - é uma relação de "tem um";
-- 
+
+### Anotações gerais:
+- No JAVA, há uma classe `LocalDate`, que guarda uma data específica instanciada;
+	- `nascimento = new LocalDate(...);`
+- Qualquer objeto pode vir com `null`, já que não é primitivo;
