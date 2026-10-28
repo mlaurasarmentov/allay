@@ -69,3 +69,4 @@
 	- É como uma máquina virtual que roda no seu próprio computador, para aplicações menores;
 	- É um espaço separado!
 	- Procurar Orbztack.
+- ORN: biblioteca que traduz de uma linguagem para a outra.

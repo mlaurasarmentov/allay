@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FACULDADE/POO/programação orientada a objetos.md",
+                "file": "TRILHA/banco de dados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "programação orientada a objetos"
+              "title": "banco de dados"
             }
           },
           {
@@ -241,6 +241,7 @@
   },
   "active": "421559b5a17735c2",
   "lastOpenFiles": [
+    "TRILHA/backend.md",
     "FACULDADE/POO/programação orientada a objetos.md",
     "FACULDADE/CÁLCULO II/ray tracing in one weekend.md",
     "FACULDADE/POO/outros aspectos e funções.md",
@@ -272,7 +273,6 @@
     "ORGANIZAÇÃO/horários.md",
     "ORGANIZAÇÃO/geral.canvas",
     "ORGANIZAÇÃO/pesquisar.md",
-    "ORGANIZAÇÃO/projetos da faculdade.md",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/pomodoro-stats.base",
     "TaskNotes/Views/agenda-default.base",
