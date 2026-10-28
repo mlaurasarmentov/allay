@@ -56,18 +56,25 @@
 - A principal ferramenta de reuso em POO -> novas classes são criadas a partir de classes inexistentes;
 - Permite que um objeto ganhe métodos e características de outros objetos - ganham uma relação hierárquica entre si:
 - Reutiliza todos os atributos e métodos *não privados* e pode adicionar novos recursos, separados da classe de origem;
+- Cria-se uma classe geral que possa ter o código que seria repetido em subclasses -> essa classe é uma *classe abstrata*, pois ela nunca criará um objeto;
 - Relação de "um tipo de" / "é um";
 - Superclasse / classe-mãe: é a origem da subclasse / classe-filha, que carrega os atributos e os métodos da superclasse;
 - Uma subclasse também pode ser superclasse de outra classe;
 - `class nomeSubclasse extends nomeSuperclasse{}`;
 - Comando `super` referencia a classe-mãe -> pode chamar método ou somente referenciar;
 - A subclasse precisa ter, pelo menos, um construtor igual ao da superclasse;
+- A superclasse não tem acesso às especializações da subclasse;
+- Permite sobrescrita de métodos: implementação de algo já feito, mas com mudanças da subclasse;
+	- Escrito como `@Override`;
+	- Para usar a forma da superclasse, é só referenciar usando `super`;
+	- Para proibir sobrescrita, coloca-se `final` na declaração do método;
 ### Tipos de herança:
 - Simples: uma superclasse tem uma / várias subclasses;
 - Multinivel: há subclasses que são filhas de outras subclasses (em camadas, vários níveis);
 - Múltipla: classes que contém inúmeras superclasses;
 	- JAVA não suporta herança múltipla - sempre terá somente uma classe associada;
 	- Com interface, há como desviar essa limitação;
+
 ## Anotações gerais:
 - No JAVA, há uma classe `LocalDate`, que guarda uma data específica instanciada;
 	- `nascimento = new LocalDate(...);`

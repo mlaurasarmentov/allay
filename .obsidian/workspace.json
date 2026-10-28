@@ -34,6 +34,18 @@
               "icon": "lucide-file",
               "title": "ray tracing in one weekend"
             }
+          },
+          {
+            "id": "2412481fce92cb3a",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://app.todoist.com/app/inbox?locale=pt"
+              },
+              "icon": "lucide-file",
+              "title": "Inbox – Todoist"
+            }
           }
         ]
       }
@@ -229,8 +241,8 @@
   },
   "active": "421559b5a17735c2",
   "lastOpenFiles": [
-    "FACULDADE/CÁLCULO II/ray tracing in one weekend.md",
     "FACULDADE/POO/programação orientada a objetos.md",
+    "FACULDADE/CÁLCULO II/ray tracing in one weekend.md",
     "FACULDADE/POO/outros aspectos e funções.md",
     "FACULDADE/POO/conversão, entrada e saída.md",
     "FACULDADE/ENETRIX.md",
