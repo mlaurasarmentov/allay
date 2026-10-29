@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FACULDADE/CÁLCULO II/ray tracing in one weekend.md",
+                "file": "FACULDADE/POO/programação orientada a objetos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ray tracing in one weekend"
+              "title": "programação orientada a objetos"
             }
           },
           {
@@ -47,7 +47,8 @@
               "title": "Inbox – Todoist"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,12 +240,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "421559b5a17735c2",
+  "active": "82b036fa47ef8660",
   "lastOpenFiles": [
+    "FACULDADE/POO/outros aspectos e funções.md",
+    "FACULDADE/CÁLCULO II/ray tracing in one weekend.md",
+    "TRILHA/banco de dados.md",
     "TRILHA/backend.md",
     "FACULDADE/POO/programação orientada a objetos.md",
-    "FACULDADE/CÁLCULO II/ray tracing in one weekend.md",
-    "FACULDADE/POO/outros aspectos e funções.md",
     "FACULDADE/POO/conversão, entrada e saída.md",
     "FACULDADE/ENETRIX.md",
     "FACULDADE/POO/belarmino.canvas",
@@ -272,7 +274,6 @@
     "ORGANIZAÇÃO/ideias.md",
     "ORGANIZAÇÃO/horários.md",
     "ORGANIZAÇÃO/geral.canvas",
-    "ORGANIZAÇÃO/pesquisar.md",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/pomodoro-stats.base",
     "TaskNotes/Views/agenda-default.base",

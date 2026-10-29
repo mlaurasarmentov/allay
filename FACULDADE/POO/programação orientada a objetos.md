@@ -6,24 +6,29 @@
 - Usa alguns conceitos básicos para o seu manuseio - os pilares de POO;
 
 ## Pilares de POO:
-- Abstração: a representação de objetos, remete a um objeto, é uma generalização:
+### Abstração: 
+- É a representação de objetos, remete a um objeto, é uma generalização:
 	- É o processo de isolar ou de simplificar um conceito;
 	- Uma visualização ou representação de uma entidade que inclui somente os atributos de importância em um contexto particular;
 	- Esconder detalhes de implementação, expondo apenas uma interface simples.
-- Encapsulamento: é o processo de esconder os detalhes não necessários para um objeto:
+### Encapsulamento: 
+- É o processo de esconder os detalhes não necessários para um objeto:
 	- Explica como um atributo deve ser acessado, para não quebrar o programa;
 	- Funciona por acesso indireto, para não corromper o dado - permite acesso controlado, para segurança, para organização etc.;
 	- Esconde métricas e detalhes internos que não precisam ser acessados por entidades externas;
 	- "Para uma abstração dar certo, sua implementação deve ser *encapsulada*".
-- Polimorfismo: diferentes formas para um mesmo método - a mesma função, dependendo do contexto, pode se manifestar de modos diferentes;
-- Classe: comumente, cria-se com letra maiúscula:
+### Polimorfismo: 
+- É as diferentes formas para um mesmo método - a mesma função, dependendo do contexto, pode se manifestar de modos diferentes;
+### Classe: 
+- Comumente, cria-se com letra maiúscula:
 	- Propriedades (estados): características gerais de objetos dessa classe:
 	- Métodos (comportamentos / operações): ações que podem ser realizadas com os objetos dessa classe;
 	- Define atributos e métodos, é aquilo codificado, base para objeto - é um molde / um modelo para o objeto;
 	- Começa com qualificador (public, ou private);
 	- Declaração: `Classe nomeClasse = new Construtor`.
 		- O construtor define parâmetros, caso desejado.
-- Objeto: é a abstração de algo do mundo real, colocada na memória do computador e, assim, cabível de processamentos:
+### Objeto:
+- É a abstração de algo do mundo real, colocada na memória do computador e, assim, cabível de processamentos:
 	- É criado a partir de classe (pelo comando *new*) - baseia-se no que já foi definido;
 	- É instanciado na memória e tem seus dados únicos guardados;
 	- Comunicação entre objetos: usam mensagens para mandar requisições a diferentes objetos;
@@ -50,6 +55,7 @@
 ## Composição / Delegação:
 - A capacidade de se criar várias classes, usando classes que já existem;
 - Classes podem ter outras classes como parâmetros em seus atributos;
+	- Exemplo: um conjunto de classes "música" fazem uma classe "playlist".
 - Usado para aproveitar código - é uma relação de "tem um".
 
 ## Herança:
@@ -68,6 +74,10 @@
 	- Escrito como `@Override`;
 	- Para usar a forma da superclasse, é só referenciar usando `super`;
 	- Para proibir sobrescrita, coloca-se `final` na declaração do método;
+- Sobrescrita de métodos em herança geram polimorfismo!
+- Sintaxe:
+	- Usa-se `extends`: `class Aluno extends Pessoa`;
+	- Para fazer herança, deixamos os atributos e métodos da superclasse como `protected` para que as subclasses tenham acesso.
 ### Tipos de herança:
 - Simples: uma superclasse tem uma / várias subclasses;
 - Multinivel: há subclasses que são filhas de outras subclasses (em camadas, vários níveis);
