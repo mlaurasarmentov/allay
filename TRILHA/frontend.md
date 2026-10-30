@@ -35,4 +35,13 @@ CGI -> PHP / ASP -> App servers
 - Administração de cache:
 	- HTTP (cache do navegador) -> Cliente (Cache de dados) -> Invalidar (Quando jogar fora, clear Cache);
 	- Stream: o cliente recebe a resposta da web pedaço por pedaço, em vez de ter a resposta inteira -> a resposta chega sempre, em chunks;
-- 
+- Uso de dados:
+	- Definir como eles são salvos (por sessão, por estado, offline...);
+	- Como usar páginas pesadas sem travamento;
+
+## React:
+- React: biblioteca - componentização, um dos aspectos possíveis da página;
+- Reaproveitamento de componentes para a criação de novas páginas;
+- JSX: usa JavaScript para passar componentes para HTML;
+- É sobre usar funções para retornar HTML, aproveitando código;
+- A interface vira algo programável!
