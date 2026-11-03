@@ -11,12 +11,10 @@
             "id": "2412481fce92cb3a",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://app.todoist.com/app/inbox?locale=pt"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Surfing"
+              "title": "New tab"
             }
           }
         ]
@@ -211,7 +209,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2412481fce92cb3a",
+  "active": "c34e536414f0e170",
   "lastOpenFiles": [
     "TRILHA/frontend.md",
     "FACULDADE/POO/programação orientada a objetos.md",
