@@ -1,2 +1,0 @@
-- Pedir link do curso de Stanford!
-- 
