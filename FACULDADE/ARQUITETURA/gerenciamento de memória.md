@@ -18,7 +18,7 @@
 ## Monitor residente:
 - Divide-se a memória entre o espaço do usuário e o espaço do sistema operacional;
 	- A área do SO guarda a tabela de interrupções
-- Usado para programação monousuário:
+- Usado para **programação monousuário**:
 	- **Programação monousuário:** o sistema executa somente um programa de usuário por vez, o qual usa toda a área do usuário, liberando para o próximo só no fim de sua própria execução.
 	- Como os programas não compartilham memória, não há porque proteger um processo do outro;
 	- Enquanto a CPU espera uma operação E/S, a CPU fica parada.
@@ -26,4 +26,39 @@
 	- SO ocupa a parte inicial da memória, com a tabela de interrupções;
 	- Usuário trabalha com os endereços depois do SO, limitados pelo registrador de segurança (só aceita valores maiores que o limite do SO);
 	- Na lógica do programa, o endereçamento do usuário sempre é somado ao limite;
-- Relocação:
+### Relocação Estática:
+- Endereços relativos viram endereços absolutos ao programa ser carregado;
+- O código executável deve conter os códigos que referenciam todos os endereços (a informação de relocação).
+### Relocação Dinâmica:
+- Os endereços permanecem lógicos (ou seja, nunca são somados com o endereço lógico, para se tornarem endereços físicos), o **registrador base** é somado a cada acesso;
+- **Registrador base / Registrador de relocação:** guarda o endereço físico em que cada programa começa. A CPU soma esse valor aos endereços lógicos gerados por programa, em tempo de execução; 
+- Permite a movimentação de programas, a modificação do espaço do SO a qualquer momento e a inclusão de controladores de dispositivos;
+- **Endereços lógicos:** o que o programa vê, vai de 0 até o MÁXIMO;
+- **Endereços físicos:** o que o SO vê, vai de REG. BASE até REG. BASE + MÁXIMO;
+
+## Swapping:
+- Usa o disco para transformar o monitor residente monousuário em multiusuário;
+- O programa que perde a CPU é copiado no disco (*swap out*), enquanto o que ganha a CPU sai do disco e vai para a memória principal (*swap in*, é uma troca, um swap!);
+- Códigos executáveis ficam no disco e vão para a memória quando são chamados;
+- Permite multiprogramação com memórias pequenas;
+- É lento, pois custa a troca de uma grande quantidade de dados entre disco e memória;
+- Se for frequente, o sistema gasta mais tempo na troca que na execução.
+
+## Partições:
+- Vários programas compartilham a memória ao mesmo tempo;
+- A memória é dividida pelo número existente de programas;
+### Partições fixas:
+- Estáticas, partições que não mudam de lugar/tamanho;
+- Ou seja, a memória é dividida em partições que não são alteradas durante a execução do sistema;
+- O problema é a subutilização de memória, em razão da fragmentação interna;
+
+### Partições variáveis:
+- Têm regiões dinâmicas, a memória é alocada sob demanda;
+- O SO guarda informações sobre quais partes de memória estão disponíveis e sobre quais partes estão ocupadas;
+- Ao terminar, o processo libera a área - porém, com o tempo, podem aparecer buracos entre endereços de processos, de modo que se forma a fragmentação externa;
+- Sempre existe um conjunto de áreas livres na memória -> o conjunto é procurado e parte dele vai para um programa (se a área for maior, o restante fica livre);
+- Quando o processo termina, a área é liberada;
+- **Algoritmo Best-fit:**
+- **Algoritmo Worst-fit:**
+
+## Paginação:
