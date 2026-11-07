@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "94d6c987a4a10c10",
@@ -193,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,6 +215,7 @@
   },
   "active": "d391d32c5251b5a4",
   "lastOpenFiles": [
+    "Untitled.md",
     "FACULDADE/PACODE/palestra de marianne.md",
     "TRILHA/frontend.md",
     "FACULDADE/POO/programação orientada a objetos.md",
@@ -242,7 +245,6 @@
     "FACULDADE/ARQUITETURA/introdução.md",
     "FACULDADE/ARQUITETURA/processamento paralelo.md",
     "ARQUIVOS",
-    "FACULDADE/ARQUITETURA/eletrônica digital.md",
     "ARQUIVOS/RESUMO CISC X RISC.pdf",
     "ORGANIZAÇÃO/geral.canvas",
     "TaskNotes/Views/relationships.base",
