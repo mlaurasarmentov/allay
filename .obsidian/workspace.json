@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2412481fce92cb3a",
+            "id": "d391d32c5251b5a4",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://app.todoist.com/app/inbox?locale=pt"
+              },
+              "icon": "lucide-file",
+              "title": "Inbox – Todoist"
+            }
+          },
+          {
+            "id": "697040df9f486139",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -17,7 +29,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +222,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c34e536414f0e170",
+  "active": "697040df9f486139",
   "lastOpenFiles": [
     "TRILHA/frontend.md",
     "FACULDADE/POO/programação orientada a objetos.md",
