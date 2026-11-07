@@ -11,6 +11,20 @@
             "id": "d391d32c5251b5a4",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FACULDADE/ARQUITETURA/gerenciamento de memória.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gerenciamento de memória"
+            }
+          },
+          {
+            "id": "35b65166da219756",
+            "type": "leaf",
+            "state": {
               "type": "surfing-view",
               "state": {
                 "url": "https://app.todoist.com/app/inbox?locale=pt"
@@ -81,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "94d6c987a4a10c10",
@@ -194,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,6 +227,7 @@
   },
   "active": "d391d32c5251b5a4",
   "lastOpenFiles": [
+    "FACULDADE/ARQUITETURA/gerenciamento de memória.md",
     "Untitled.md",
     "FACULDADE/PACODE/palestra de marianne.md",
     "TRILHA/frontend.md",
@@ -243,7 +256,6 @@
     "FACULDADE/ARQUITETURA/cisc x risc.md",
     "ARQUIVOS/RESUMO CISC X RISC 1.pdf",
     "FACULDADE/ARQUITETURA/introdução.md",
-    "FACULDADE/ARQUITETURA/processamento paralelo.md",
     "ARQUIVOS",
     "ARQUIVOS/RESUMO CISC X RISC.pdf",
     "ORGANIZAÇÃO/geral.canvas",
