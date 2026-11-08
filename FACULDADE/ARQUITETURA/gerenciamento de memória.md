@@ -56,8 +56,8 @@
 - O programa que perde a CPU é copiado no disco (*swap out*), enquanto o que ganha a CPU sai do disco e vai para a memória principal (*swap in*, é uma troca, um swap!);
 - Códigos executáveis ficam no disco e vão para a memória quando são chamados;
 - Permite multiprogramação com memórias pequenas;
-- É lento, pois custa a troca de uma grande quantidade de dados entre disco e memória;
-- Se for frequente, o sistema gasta mais tempo na troca que na execução.
+- É lento, pois custa a troca de uma grande quantidade de dados entre disco e memória, além de que, como o disco processa lentamente, deixa um dos processos mais lento;
+- Se for frequente / a memória estiver sobrecarregada, o sistema gasta mais tempo na troca que na execução, isso se chama *thrashing*.
 
 ## Partições:
 - Vários programas compartilham a memória ao mesmo tempo;
