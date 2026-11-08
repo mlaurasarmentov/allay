@@ -94,14 +94,22 @@
 - Memória interna x Memória externa: a memória interna é acessada diretamente pelo processador (registradores, cache, RAM), enquanto a memória externa é de armazenamento, acessada por dispositivos E/S (disco, pen-drive, fita...);
 - Capacidade x Tamanho físico: capacidade é a quantidade de informação que pode ser gravada em um dispositivo (bytes), já tamanho físico se refere às dimensões de um dispositivo;
 - Taxa de transferência de barramento: é a largura do barramento (em bytes) multiplicada pela frequência (transferência por segundo);
-- Hierarquia de memória:
-- Nível alto x Nível baixo:
+- Hierarquia de memória: é uma organização em níveis (registradores, cache, memória principal e disco), descendo nessa hierarquia, o tempo de acesso e a capacidade aumentam, mas o custo por bit cai, de modo que os dados mais usados ficam nos níveis mais altos;
+- Nível alto x Nível baixo: 
+	- Nível alto: registradores e cache - são rápidos, pequenos e caros;
+	- Nível baixo: memória principal, SSD e fita - são lentos, maiores e baratos;
 - Volátil x Não volátil:
-- RAM estática x RAM dinâmica:
+	- Sem energia, perde o conteúdo (RAM, cache...);
+	- Continua com o conteúdo sempre salvo (disco, SSD, fita...);
+- RAM estática x RAM dinâmica: 
+	- Estática (SRAM): usa flip-flops, é rápida, cara e menor, não precisa de refresh e é usada na cache;
+	- Dinâmica (DRAM): usa capacitor + transistor, é mais lenta, barata e maior, precisa de refresh e é usada na memória principal.
 - Memórias semicondutoras somente leitura (ROM) e principalmente leitura:
-- Célula de memória:
-- "Por que usar cache?":
-- "Que a cache contém?":
-- Acertos e erros (*hit* e *miss*):
+- Célula de memória: é o elemento básico, armazena 1 bit e tem dois estados estáveis, pode ser escrita e lida e funciona por linha / coluna;
+- "Por que usar cache?": para diminuir o tempo de acesso, já que a memória principal é mais lenta que a CPU;
+- "Que a cache contém?": cópias de blocos da memória principal, a tag de cada dado e bits de controle;
+- Acertos e erros (*hit* / *miss*): um *hit* ocorre quando o dado continua na cache, porque já foi carregado anteriormente, dando acesso rápido, enquanto um *miss* ocorre quando o dado não estava salvo na cache, de modo que deve ser procurado na memória e incluído na cache;
 - As duas formas de organização:
-- Localidade *temporal* x Localidade *espacial*:
+- Localidade *temporal* x Localidade *espacial*: 
+	- Temporal: o dado acessado agora tende a ser acessado de novo em breve;
+	- Espacial: após acessar um endereço, tende-se a acessar os vizinhos -> por isso, a cache traz blocos inteiros.
