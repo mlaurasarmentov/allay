@@ -91,9 +91,9 @@
 - FIFO + Second Chance: segue a regra FIFO, contudo se retornar, recebe uma segunda chance, ou seja, dura mais que uma página normal;
 
 # Geral (inspirado nas questões teóricas):
-- Memória interna x Memória externa:
-- Capacidade x Tamanho físico:
-- Taxa de transferência de barramento:
+- Memória interna x Memória externa: a memória interna é acessada diretamente pelo processador (registradores, cache, RAM), enquanto a memória externa é de armazenamento, acessada por dispositivos E/S (disco, pen-drive, fita...);
+- Capacidade x Tamanho físico: capacidade é a quantidade de informação que pode ser gravada em um dispositivo (bytes), já tamanho físico se refere às dimensões de um dispositivo;
+- Taxa de transferência de barramento: é a largura do barramento (em bytes) multiplicada pela frequência (transferência por segundo);
 - Hierarquia de memória:
 - Nível alto x Nível baixo:
 - Volátil x Não volátil:
