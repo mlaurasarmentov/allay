@@ -2,7 +2,16 @@
 - **MMU (Unidade de gerenciamento de memória):** fica entre a CPU e a memória, tem três funções:
 	- *Traduz* o endereço lógico (endereço virtual) criado pelo programa em um endereço físico, usando o Registrador Base e a tabela de páginas / de segmentos;
 	- *Verifica* a proteção (se a página é válida / inválida, o tipo de acesso permitido, se houver escrita, liga dirty bit);
-- **TLB (Translation lookaside buffer):**
+	- *Gera* uma interrupção se algo falhar e passa a responsabilidade para o SO;
+	- Em caso de falha:
+		- O SO consulta o descritor do processo;
+		- Se a página estiver fora do espaço de endereçamento do processo, o processo é abortado;
+		- Se é do processo mas ainda não foi carregada, é falta de página, a instrução é reexecutada.
+- **TLB (Translation lookaside buffer):** é um cache de traduções, guarda os pares (pág virtual e pág física) usados mais recentes, todas as chaves são comparadas ao mesmo tempo;
+	- É criada no hardware, dentro da MMU, não é uma estrutura de software;
+	- Facilita a tradução;
+	- O SO só a gerencia.
+- Importância da TLB para o desempenho da MMU: diminui o acesso direto à memória principal, 
 
 # Monoprogramação x Multiprogramação:
 - Na Monoprogramação, só um programa ocupa a memória / CPU por vez;
