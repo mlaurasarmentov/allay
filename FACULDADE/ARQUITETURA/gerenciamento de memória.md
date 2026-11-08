@@ -84,6 +84,10 @@
 - A memória física do computador está dividida em *páginas físicas / frames*;
 - Ocorre fragmentação interna na última página.
 
-
 # Algoritmos de susbtituição de páginas:
+
+- FCFS / FIFO: "First Come, First Served", segue a regra de fila, o primeiro a chegar é o primeiro a sair, ou seja, sai a página que está a mais tempo na memória;
+- LRU: quando há necessidade de espaço, o menos usado é descartado;
+- Second Chance (Segunda Chance): FIFO com bit de referência. A página mais antiga só sai com *bit 0*; se for 1, o bit vira 0 e a página vai para o fim da fila (ganham uma "segunda chance");
+- FIFO + Second Chance: segue a regra FIFO, contudo se retornar, recebe uma segunda chance, ou seja, dura mais que uma página normal;
 
