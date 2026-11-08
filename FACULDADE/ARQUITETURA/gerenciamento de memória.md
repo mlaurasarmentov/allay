@@ -1,3 +1,9 @@
+# Introdução:
+- **MMU (Unidade de gerenciamento de memória):** fica entre a CPU e a memória, tem três funções:
+	- *Traduz* o endereço lógico (endereço virtual) criado pelo programa em um endereço físico, usando o Registrador Base e a tabela de páginas / de segmentos;
+	- *Verifica* a proteção (se a página é válida / inválida, o tipo de acesso permitido, se houver escrita, liga dirty bit);
+- **TLB (Translation lookaside buffer):**
+
 # Monoprogramação x Multiprogramação:
 - Na Monoprogramação, só um programa ocupa a memória / CPU por vez;
 - A Multiprogramação permite o compartilhamento de CPU por vários processos, incrementando a complexidade de comunicação entre componentes computacionais.
@@ -64,5 +70,5 @@
 ## Paginação:
 - Partições variáveis, apresenta **fragmentação externa**;
 - A **fragmentação externa** é resolvida dividindo a memória lógica em páginas e a memória física em frames (ambos do mesmo tamanho, definido pelo hardware);
-- Cada endereço gerado pela CPU é quebrado em duas partes: um número de páginas (p) e um deslocamento (d) -> o ende;
+- Cada endereço gerado pela CPU é quebrado em duas partes: um número de páginas (p) e um deslocamento (d) -> o endereço lógico é (p, d);
 - 
