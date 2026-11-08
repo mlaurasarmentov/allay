@@ -80,4 +80,10 @@
 - Partições variáveis, apresenta **fragmentação externa**;
 - A **fragmentação externa** é resolvida dividindo a memória lógica em páginas e a memória física em frames (ambos do mesmo tamanho, definido pelo hardware);
 - Cada endereço gerado pela CPU é quebrado em duas partes: um número de páginas (p) e um deslocamento (d) -> o endereço lógico é (p, d);
-- 
+- A memória lógica está dividida em blocos denominados *páginas lógicas*;
+- A memória física do computador está dividida em *páginas físicas / frames*;
+- Ocorre fragmentação interna na última página.
+
+
+# Algoritmos de susbtituição de páginas:
+
