@@ -64,5 +64,5 @@
 ## Paginação:
 - Partições variáveis, apresenta **fragmentação externa**;
 - A **fragmentação externa** é resolvida dividindo a memória lógica em páginas e a memória física em frames (ambos do mesmo tamanho, definido pelo hardware);
-- Cada endereço gerado pela CPU é quebrado em duas partes: um número de páginas (p) e um deslocamento (d);
+- Cada endereço gerado pela CPU é quebrado em duas partes: um número de páginas (p) e um deslocamento (d) -> o ende;
 - 
