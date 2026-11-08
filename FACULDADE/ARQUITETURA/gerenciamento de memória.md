@@ -11,7 +11,7 @@
 	- É criada no hardware, dentro da MMU, não é uma estrutura de software;
 	- Facilita a tradução;
 	- O SO só a gerencia.
-- Importância da TLB para o desempenho da MMU: diminui o acesso direto à memória principal, 
+- **Importância da TLB para o desempenho da MMU:** armazenando os dados dos acessos mais recentes (traduções), diminui o acesso direto à memória principal. Sem a TLB, cada acesso do programa exigiria dois acessos à memória (um para a tabela, outro para o dado).
 
 # Monoprogramação x Multiprogramação:
 - Na Monoprogramação, só um programa ocupa a memória / CPU por vez;
