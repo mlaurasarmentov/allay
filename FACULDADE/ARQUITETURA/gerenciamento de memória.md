@@ -58,7 +58,11 @@
 - Ao terminar, o processo libera a área - porém, com o tempo, podem aparecer buracos entre endereços de processos, de modo que se forma a fragmentação externa;
 - Sempre existe um conjunto de áreas livres na memória -> o conjunto é procurado e parte dele vai para um programa (se a área for maior, o restante fica livre);
 - Quando o processo termina, a área é liberada;
-- **Algoritmo Best-fit:**
-- **Algoritmo Worst-fit:**
+- **Algoritmo Best-fit:** escolhe o menor buraco que cabe o processo, é bom para quando há muitos processos pequenos, para preservar grandes buracos, mas deixa fragmentos pequenos;
+- **Algoritmo Worst-fit:** escolhe o maior buraco encontrado, para que a sobra continue útil, é bom para processos de tamanhos parecidos, mas desperdiça buracos grandes.
 
 ## Paginação:
+- Partições variáveis, apresenta **fragmentação externa**;
+- A **fragmentação externa** é resolvida dividindo a memória lógica em páginas e a memória física em frames (ambos do mesmo tamanho, definido pelo hardware);
+- Cada endereço gerado pela CPU é quebrado em duas partes: um número de páginas (p) e um deslocamento (d);
+- 
