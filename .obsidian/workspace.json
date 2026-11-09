@@ -27,13 +27,14 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://app.todoist.com/app/inbox?locale=pt"
+                "url": "https://app.todoist.com/app/inbox"
               },
               "icon": "lucide-file",
               "title": "Todoist"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,10 +226,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d391d32c5251b5a4",
+  "active": "35b65166da219756",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "FACULDADE/ARQUITETURA/gerenciamento de memória.md",
+    "Untitled 1.md",
     "Untitled.md",
     "FACULDADE/ARQUITETURA/eletrônica digital.md",
     "FACULDADE/ARQUITETURA/provas.md",
