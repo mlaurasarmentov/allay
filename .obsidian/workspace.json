@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "gerenciamento de memória"
             }
-          },
-          {
-            "id": "35b65166da219756",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://app.todoist.com/app/inbox"
-              },
-              "icon": "lucide-file",
-              "title": "Todoist"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,13 +213,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "35b65166da219756",
+  "active": "d391d32c5251b5a4",
   "lastOpenFiles": [
+    "FACULDADE/ARQUITETURA/processamento paralelo.md",
+    "FACULDADE/ARQUITETURA/provas.md",
     "FACULDADE/ARQUITETURA/gerenciamento de memória.md",
     "Untitled 1.md",
     "Untitled.md",
     "FACULDADE/ARQUITETURA/eletrônica digital.md",
-    "FACULDADE/ARQUITETURA/provas.md",
     "FACULDADE/PACODE/palestra de marianne.md",
     "TRILHA/frontend.md",
     "FACULDADE/POO/programação orientada a objetos.md",
@@ -255,7 +243,6 @@
     "TRILHA/202",
     "TRILHA/prática - backend e banco de dados.md",
     "FACULDADE/PACODE/recursão - backtracking.md",
-    "FACULDADE/PACODE/linguagem, complexidade e STL.md",
     "ARQUIVOS/RESUMO CISC X RISC 1.pdf",
     "ARQUIVOS",
     "ARQUIVOS/RESUMO CISC X RISC.pdf",
