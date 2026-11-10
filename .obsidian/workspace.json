@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "gerenciamento de memória"
             }
+          },
+          {
+            "id": "2d759e69b5da0264",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://app.todoist.com/app/today"
+              },
+              "icon": "lucide-file",
+              "title": "Todoist"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,11 +226,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d391d32c5251b5a4",
+  "active": "2d759e69b5da0264",
   "lastOpenFiles": [
+    "FACULDADE/ARQUITETURA/gerenciamento de memória.md",
     "FACULDADE/ARQUITETURA/processamento paralelo.md",
     "FACULDADE/ARQUITETURA/provas.md",
-    "FACULDADE/ARQUITETURA/gerenciamento de memória.md",
     "Untitled 1.md",
     "Untitled.md",
     "FACULDADE/ARQUITETURA/eletrônica digital.md",
