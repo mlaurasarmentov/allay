@@ -41,14 +41,14 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://app.todoist.com/app/today"
+                "url": "https://app.todoist.com/app/projects/active"
               },
               "icon": "lucide-file",
-              "title": "Today – Todoist"
+              "title": "My Projects – Todoist"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,7 +242,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2d759e69b5da0264",
+  "active": "8da7d9dab0403fc1",
   "lastOpenFiles": [
     "FACULDADE/POO/tratamento de exceções.md",
     "Untitled.md",
