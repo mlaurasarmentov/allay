@@ -12,6 +12,7 @@
 		- Aceita a troca de subclasses desse objeto (o `Personagem p` pode ser transformado em um `new Guerreiro`);
 - Também há métodos abstratos os quais devem ser aplicados em todos os filhos;
 	- Métodos abstratos não podem ser usados pela classe-mãe;
+	- Podem ser somente assinados, ou seja, só escritos, sem implementação;
 	- Para utilizar nas filhas, é só reimplementar sem o *abstract* (override opcional);
 	- O uso de métodos abstratos depende do contexto em que se implementa;
 # Polimorfismo:
