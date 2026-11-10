@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,10 +242,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8da7d9dab0403fc1",
+  "active": "2d759e69b5da0264",
   "lastOpenFiles": [
-    "Untitled.md",
     "FACULDADE/POO/tratamento de exceções.md",
+    "Untitled.md",
     "FACULDADE/ARQUITETURA/gerenciamento de memória.md",
     "FACULDADE/ARQUITETURA/processamento paralelo.md",
     "FACULDADE/ARQUITETURA/provas.md",
