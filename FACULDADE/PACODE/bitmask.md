@@ -4,8 +4,14 @@
 - Dentro disso, usaremos complemento de 2 para representar números negativos em binário;
 - Em C++, usamos `>>` para dar shift em bits (`x >> 3` é a mesma coisa que `x / 8`, ou seja, `x / 2³`);k
 
-| Símbolo | Notação C++ |
-| :-----: | :---------: |
-|   AND   |      &      |
-|   OR    |     \|      |
-|   XOR   |      ^      |
+|      Operação      |   Notação C++   |
+| :----------------: | :-------------: |
+|        AND         |        &        |
+|         OR         |       \|        |
+|        XOR         |        ^        |
+|     DIFERENÇA      |       & ~       |
+|   verificar bit    |  (x >> i) & 1   |
+|     ligar bit      | x \| = (1 << i) |
+|  checar elementos  |  (1 << n) - 1   |
+| checar se é subset |  (a & b) == a   |
+

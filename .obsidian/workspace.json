@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FACULDADE/POO/interfaces e diagrama de classes.md",
+                "file": "FACULDADE/PACODE/bitmask.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "interfaces e diagrama de classes"
+              "title": "bitmask"
             }
           }
         ],
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 243.4564552307129
   },
   "right": {
     "id": "94d6c987a4a10c10",
@@ -208,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,6 +229,7 @@
   },
   "active": "f4b223f60201f122",
   "lastOpenFiles": [
+    "FACULDADE/PACODE/Untitled.md",
     "FACULDADE/POO/interfaces e diagrama de classes.md",
     "FACULDADE/PACODE/bitmask.md",
     "TRILHA/202/claude code por dentro.md",
@@ -254,7 +256,6 @@
     "FACULDADE/LÓGICA/formas normais.md",
     "FACULDADE/ARQUITETURA/Untitled.md",
     "FACULDADE/LÓGICA/sistemas e implicações.md",
-    "FACULDADE/POO/origem e estruturação.md",
     "TRILHA/202",
     "ARQUIVOS/RESUMO CISC X RISC 1.pdf",
     "ARQUIVOS",
