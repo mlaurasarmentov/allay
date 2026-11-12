@@ -16,7 +16,7 @@
                 "url": "https://app.todoist.com/app/filter/all-2375344813"
               },
               "icon": "lucide-file",
-              "title": "All – Todoist"
+              "title": "Surfing"
             }
           },
           {
@@ -32,23 +32,8 @@
               "icon": "lucide-file",
               "title": "bitmask"
             }
-          },
-          {
-            "id": "5e0a8b3b18940a44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FACULDADE/POO/polimorfismo, classes abstratas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "polimorfismo, classes abstratas"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,10 +225,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fab898c5f83e8c13",
+  "active": "2d759e69b5da0264",
   "lastOpenFiles": [
-    "FACULDADE/PACODE/bitmask.md",
     "FACULDADE/POO/polimorfismo, classes abstratas.md",
+    "FACULDADE/PACODE/bitmask.md",
     "FACULDADE/POO/tratamento de exceções.md",
     "FACULDADE/ARQUITETURA/gerenciamento de memória.md",
     "FACULDADE/ARQUITETURA/processamento paralelo.md",
@@ -261,7 +246,6 @@
     "FACULDADE/ENETRIX.md",
     "FACULDADE/POO/belarmino.canvas",
     "FACULDADE/POO/recursão e arquivos.md",
-    "FACULDADE/POO/polimorfismo, classes abstratas.md",
     "TRILHA/202/links importantes.md",
     "TRILHA/202/github e vercel.md",
     "FACULDADE/LÓGICA/formas normais.md",
