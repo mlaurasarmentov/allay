@@ -49,6 +49,7 @@
 - A lógica de um nó ter sido visitado ou não continua;
 - Funciona para reconstruir caminhos, achar o caminho mais curto...
 - Usa filas para a implementação em hierarquia;
+- BFS multi-source: começa o BFS com mais de uma origem, ou seja, mais de um BFS ao mesmo tempo;
 - Código:
 	`queue<int> q;
 	`queue.push(1);
