@@ -33,3 +33,11 @@
 - Cada nó é visitado e marcado, para não ser revisitado:
 	- Se ele já tiver sido visitado (checado na marcação), ele é pulado.
 - DFS recursivo x DFS interativo;
+	- Usa a recursão para tomar as decisões de que ramo escolher, até acabarem os ramos livres (não marcados);
+	- `vector<bool> vis(n, false);
+	  `void DFS (int no) { 
+	  `vis[no] = true;
+	  `for (int viz : g[no]) 
+	  `{ if (vis[viz] == true) continue;
+	  `DFS(viz) 
+	  `}}
