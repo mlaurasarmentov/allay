@@ -41,3 +41,10 @@
 	  `{ if (vis[viz] == true) continue;
 	  `DFS(viz) 
 	  `}}
+
+## BFS (Breadth First Search):
+- Percorre todos os nós alcançáveis a partir de um nó inicial;
+- Faz uma busca em níveis - sua diferença principal a DFS;
+- A lógica de um nó ter sido visitado ou não continua;
+- Funciona para reconstruir caminhos, achar o caminho mais curto...
+- 
