@@ -34,7 +34,8 @@
 	- Se ele já tiver sido visitado (checado na marcação), ele é pulado.
 - DFS recursivo x DFS interativo;
 	- Usa a recursão para tomar as decisões de que ramo escolher, até acabarem os ramos livres (não marcados);
-	- `vector<bool> vis(n, false);
+	- Código recursivo:
+	  `vector<bool> vis(n, false);
 	  `void DFS (int no) { 
 	  `vis[no] = true;
 	  `for (int viz : g[no]) 
@@ -47,4 +48,18 @@
 - Faz uma busca em níveis - sua diferença principal a DFS;
 - A lógica de um nó ter sido visitado ou não continua;
 - Funciona para reconstruir caminhos, achar o caminho mais curto...
-- 
+- Usa filas para a implementação em hierarquia;
+- Código:
+	`queue<int> q;
+	`queue.push(1);
+	`vis[0] = true;
+	`while (!q.empty()){
+		`int no = q.front();
+		`q.pop();
+		`for (auto viz:g[no]){
+			`if (vis[viz]) continue;
+			`q.push(viz);
+			`vis(viz) = true;` // sem essa linha, repete-se a contagem de um nó!
+		`}
+		`
+	`}
