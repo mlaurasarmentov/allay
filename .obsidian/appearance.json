@@ -4,5 +4,6 @@
   "textFontFamily": "Monocraft",
   "monospaceFontFamily": "Monocraft",
   "nativeMenus": false,
-  "baseFontSize": 12
+  "baseFontSize": 12,
+  "showRibbon": true
 }
