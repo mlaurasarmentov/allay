@@ -1,7 +1,7 @@
 # Sobre IA:
 - A nova parte da profissão:
 	- Definir um problema;
-	- Conhecer o domínio: 
+	- Conhecer o domínio;
 	- Validação de resultados.
 - Formas de uso:
 	- Assistant code agent: a IA responde e sugere, mas quem executa é o usuário;
