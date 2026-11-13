@@ -8,6 +8,8 @@
 	- Coding agent: edita arquivos, faz testes, revisa código...
 	- Autonomous agents: trabalha independentemente;
 - Code harness: skills e limitações para a IA;
-# Referências:
+- MCP (model context protocol): conecta a AI a recursos diretamente;
+- Definição de AGENTS.md, para guiar vários agentes em um mesmo projeto;
+## Referências:
 - "Why be a techno-optimist" (texto);
 - "Software is changing (again)" (vídeo);
