@@ -7,4 +7,4 @@
 ### Comandos importantes:
 - `/help`: mostra os comandos disponíveis;
 - `/context`: mostra como está a tabela de contexto;
-- `esc`: para um comando do claude code enquanto ele roda.
+- `esc`: para um comando do claude code enquanto ele roda, mas não desfaz o que já foi escrito;

@@ -33,8 +33,7 @@
               "title": "Today – Todoist"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,7 +225,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "696e7bf467da8ef9",
+  "active": "2d759e69b5da0264",
   "lastOpenFiles": [
     "TRILHA/202/claude code por dentro.md",
     "TRILHA/AI tools e agents.md",
