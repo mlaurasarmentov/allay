@@ -1,10 +1,23 @@
 # Funcionamento geral:
 - O claude code não é um chat, mas um modelo em loop, com ferramentas próprias - o modelo usa seu harness para fazer ações dentro do computador (abrir e editar documentos, trazer informações...);
 - Ele trabalha em loops de **pensar -> escolher ferramenta -> agir -> analisar resultado**;
+	- Em um chat normal, o loop é o próprio usuário;
+- O agente só sabe o que as ferramentas trouxeram para o contexto nesta sessão - linhas de código e documentos que devem ser de acesso permitido a ele;
+	- Ele não pode ver a tela do usuário nem outros aplicativos abertos, somente o que ele abre por suas ferramentas;
+- Ele pode ser usado nessas superfícies:
+	- Terminal;
+	- Editor de código;
+	- Desktop;
+	- Web (roda na nuvem, só vê o que está no repositório).
 - Usa o contexto para saber o que foi feito, mas, se o armazenamento de contexto estiver cheio, ele pode resumir e compactar;
+	- Quando um chat acaba, o que fica é aquilo que foi salvo em disco;
 - O claude code trabalha em um terminal sempre acessível pelo aplicativo, para checagem rápida de ações;
-- Arquivos markdown (como CLAUDE.md) servem para dar contexto à IA sobre o que ela deve saber / como ela deve agir, com informações que não podem ser inferidas somente lendo código;
+	- O terminal sempre começa no diretório da conversa, vale usar `pwd` para sempre checar isso;
+- O CLAUDE.md é carregado sozinho em todo início de sessão e serve para dar contexto à IA sobre o que ela deve saber / como ela deve agir, com informações que não podem ser inferidas somente lendo código;
+	- Um CLAUDE.md curto tem todas as informações necessárias para o agente (ou seja, aquelas que estão além do código) sem tomar muito espaço da janela de contexto;
+	- Além disso, com um documento curto, as informações importantes continuam com seu devido peso.
 ### Comandos importantes:
 - `/help`: mostra os comandos disponíveis;
 - `/context`: mostra como está a tabela de contexto;
-- `esc`: para um comando do claude code enquanto ele roda, mas não desfaz o que já foi escrito;
+- `esc`: para um loop do claude code enquanto ele roda, mas não desfaz o que já foi escrito - o que já foi feito continua no disco;
+- `/init`: faz um markdown automático, mas ele ainda deve ser editado e cortado pelo usuário.
