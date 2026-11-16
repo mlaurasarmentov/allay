@@ -11,12 +11,14 @@
             "id": "696e7bf467da8ef9",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "markdown",
               "state": {
-                "url": "https://app.todoist.com/app/today"
+                "file": "FACULDADE/CÁLCULO II/ray tracing in one weekend.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Todoist"
+              "title": "ray tracing in one weekend"
             }
           }
         ]
@@ -81,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.4564552307129,
-    "collapsed": true
+    "width": 243.4564552307129
   },
   "right": {
     "id": "94d6c987a4a10c10",
@@ -194,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {

@@ -11,3 +11,11 @@ host: github.com
 favicon: https://github.githubassets.com/favicons/favicon.svg
 image: https://repository-images.githubusercontent.com/197663980/1ce00d80-8350-11eb-9599-51b01ebae496
 ```
+
+- Usar cmake para fazer arquivos em PPM - o standard para imagens de computador;
+- `clog`: função do C++ para imprimir o progresso de um programa em seu carregamento;
+- Vec3: classe simples do C++ com vetores geometricos e cores (usa somente 3 dimensões);
+	- Usamos dois aliases para ele, a fim de evitar confusão: 
+		- point3;
+		- color.
+	- Temos que definir o Vec3 de início e, depois, os seus aliases no fim do documento;
