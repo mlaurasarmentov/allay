@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "interfaces e diagrama de classes"
             }
+          },
+          {
+            "id": "6fad537fad561384",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://app.todoist.com/app/project/visao-6hwpgw4VhhpP4h86"
+              },
+              "icon": "lucide-file",
+              "title": "All – Todoist"
+            }
           }
         ]
       }
@@ -215,8 +227,8 @@
   },
   "active": "62a29e02d729d277",
   "lastOpenFiles": [
-    "FACULDADE/CÁLCULO II/ray tracing in one weekend.md",
     "FACULDADE/POO/interfaces e diagrama de classes.md",
+    "FACULDADE/CÁLCULO II/ray tracing in one weekend.md",
     "FACULDADE/POO/Untitled.md",
     "TRILHA/202/claude code por dentro.md",
     "TRILHA/AI tools e agents.md",

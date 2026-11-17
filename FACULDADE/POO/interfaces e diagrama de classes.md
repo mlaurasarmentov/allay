@@ -24,7 +24,17 @@
 - *List*: divide-se em duas implementações - ArrayList, LinkedList e Vector;
 	- Homogênea e ordenada;
 	- ArrayList: é um array que se parece com uma lista dinâmica - a JVM cuida da memória para o programador;
+		- É integrado ao `for each` - não se pode modificar a estrutura de dados enquanto roda um `for each`;
+		- `Iterator` também auxilia na seleção inteira, garante a modificação e funciona enquanto houver um próximo;
 		- `ArrayList<TIPO> nome = new ArrayList<TIPO> ();`
 		- `List<TIPO> nome = new ArrayList<TIPO> ();`
 	- LinkedList: cada elemento tem uma referência para o próximo e para o anterior - não consegue pegar um elemento específico com pouco gasto;
 	- Vector: parece-se com o ArrayList, apresenta inserção e deleção;
+
+# Diagrama de classes;
+- Usado na modelagem de sistemas, desenhamos um modelo na forma como ele deve funcionar - para isso, usamos diagramas de classes;
+- 
+
+### Anotações:
+- Ao escrever somente o nome de um objeto em um print, ele automaticamente retorna o `ToString()` desse objeto;
+- Por padrão, em inteiros, a remoção usa o parâmetro colocado como índice;
