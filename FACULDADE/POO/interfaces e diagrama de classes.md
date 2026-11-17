@@ -14,5 +14,17 @@
 - Diferenças: classes abstratas recebem atributos, não necessariamente há uma relação de herança entre classes que implementam uma interface;
 
 ## Java Collections:
-- Fornece uma série de coleções (funcionam como estruturas de dados) ao programador;
-- 
+- Fornece uma série de coleções (funcionam como *estruturas de dados*) ao programador;
+	- *Estruturas de dados*: organizam de modos diferentes dados desejados;
+	- Essas coleções são feitas para ultrapassar algumas limitações dos arrays (tamanho definido, dificuldade de deleção...);
+- Os três grandes tipos são:
+	- Listas;
+	- Conjuntos;
+	- Mapas;
+- *List*: divide-se em duas implementações - ArrayList, LinkedList e Vector;
+	- Homogênea e ordenada;
+	- ArrayList: é um array que se parece com uma lista dinâmica - a JVM cuida da memória para o programador;
+		- `ArrayList<TIPO> nome = new ArrayList<TIPO> ();`
+		- `List<TIPO> nome = new ArrayList<TIPO> ();`
+	- LinkedList: cada elemento tem uma referência para o próximo e para o anterior - não consegue pegar um elemento específico com pouco gasto;
+	- Vector: parece-se com o ArrayList, apresenta inserção e deleção;
