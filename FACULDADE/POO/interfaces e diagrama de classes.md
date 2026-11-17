@@ -33,7 +33,19 @@
 
 # Diagrama de classes;
 - Usado na modelagem de sistemas, desenhamos um modelo na forma como ele deve funcionar - para isso, usamos diagramas de classes;
-- 
+- UML (Linguagem de Modelagem Unificada): serve para formalizar diagramas e modelagens;
+	- Pode ser usado para representar classes, objetos, ..., até que haja uma representação sólida do sistema a ser feito;
+		- *-* é para private;
+		- *#* é para protected;
+		- *+* é para public;
+	- A representação inclui os relacionamentos entre classes / objetos, por meio de associação (herança, composição...);
+	- Agregação: representa uma classe que é formada por várias outras (objeto-todo);
+		- A exclusão do todo implica a exclusão da parte;
+	- Multiplicidade: representa os limites inferior e superior de relacionamento entre classes;
+		- *Um para um*: um endereço só tem um usuário, um usuário só tem um endereço;
+		- *Um para vários*: um produto tem um cliente, mas um cliente pode ter vários produtos;
+		- *Vários para vários*: toda turma tem vários alunos, todo aluno tem várias turmas;
+	- Dependência: classes que dependem de outra para existirem (conceito relacionado a composição);
 
 ### Anotações:
 - Ao escrever somente o nome de um objeto em um print, ele automaticamente retorna o `ToString()` desse objeto;
