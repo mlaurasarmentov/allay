@@ -1,5 +1,6 @@
 # Interface:
 - Um mediador entre usuário e código -  é algo que provém serviço;
+	- `public interface <nome>`;
 - Estabelece um *contrato* entre classes, não são instanciadas;
 - *Contrato*: sequência de métodos que devem ser implementados pela classe que usa tal interface;
 - Funciona como classes abstratas, mas sem método implementado;
@@ -11,3 +12,7 @@
 	- Tudo que interage com `CRUD` precisa fazer tais métodos;
 	- Para usar: `public class <classe> implements <interface> {}`
 - Diferenças: classes abstratas recebem atributos, não necessariamente há uma relação de herança entre classes que implementam uma interface;
+
+## Java Collections:
+- Fornece uma série de coleções (funcionam como estruturas de dados) ao programador;
+- 
