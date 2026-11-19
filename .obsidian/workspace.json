@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "interfaces e diagrama de classes"
             }
+          },
+          {
+            "id": "94043dcf7393ecee",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://app.todoist.com/app/today"
+              },
+              "icon": "lucide-file",
+              "title": "Surfing"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,8 +226,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "62eed2b072adeb7d",
+  "active": "94043dcf7393ecee",
   "lastOpenFiles": [
+    "FACULDADE/POO/interfaces e diagrama de classes.md",
     "FACULDADE/POO/conversão, entrada e saída.md",
     "FACULDADE/POO/programação orientada a objetos.md",
     "FACULDADE/POO/recursão e arquivos.md",
@@ -222,7 +236,6 @@
     "FACULDADE/POO/tratamento de exceções.md",
     "FACULDADE/POO/outros aspectos e funções.md",
     "FACULDADE/POO/origem e estruturação.md",
-    "FACULDADE/POO/interfaces e diagrama de classes.md",
     "FACULDADE/POO/exercícios para a primeira prova.md",
     "FACULDADE/CÁLCULO II/ray tracing in one weekend.md",
     "FACULDADE/POO/Untitled.md",
