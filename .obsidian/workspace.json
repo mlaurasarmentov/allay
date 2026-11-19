@@ -30,11 +30,10 @@
                 "url": "https://app.todoist.com/app/today"
               },
               "icon": "lucide-file",
-              "title": "Surfing"
+              "title": "Today – Todoist"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,7 +225,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "94043dcf7393ecee",
+  "active": "62eed2b072adeb7d",
   "lastOpenFiles": [
     "FACULDADE/POO/interfaces e diagrama de classes.md",
     "FACULDADE/POO/conversão, entrada e saída.md",
