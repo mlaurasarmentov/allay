@@ -11,12 +11,14 @@
             "id": "62eed2b072adeb7d",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "markdown",
               "state": {
-                "url": "https://app.todoist.com/app/filter/all-2375344813"
+                "file": "FACULDADE/POO/interfaces e diagrama de classes.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Todoist"
+              "title": "interfaces e diagrama de classes"
             }
           }
         ]
@@ -213,15 +215,21 @@
   },
   "active": "62eed2b072adeb7d",
   "lastOpenFiles": [
+    "FACULDADE/POO/conversão, entrada e saída.md",
+    "FACULDADE/POO/programação orientada a objetos.md",
+    "FACULDADE/POO/recursão e arquivos.md",
+    "FACULDADE/POO/polimorfismo, classes abstratas.md",
+    "FACULDADE/POO/tratamento de exceções.md",
+    "FACULDADE/POO/outros aspectos e funções.md",
+    "FACULDADE/POO/origem e estruturação.md",
     "FACULDADE/POO/interfaces e diagrama de classes.md",
+    "FACULDADE/POO/exercícios para a primeira prova.md",
     "FACULDADE/CÁLCULO II/ray tracing in one weekend.md",
     "FACULDADE/POO/Untitled.md",
     "TRILHA/202/claude code por dentro.md",
     "TRILHA/AI tools e agents.md",
     "FACULDADE/PACODE/grafos.md",
     "FACULDADE/PACODE/bitmask.md",
-    "FACULDADE/POO/polimorfismo, classes abstratas.md",
-    "FACULDADE/POO/tratamento de exceções.md",
     "FACULDADE/ARQUITETURA/gerenciamento de memória.md",
     "FACULDADE/ARQUITETURA/processamento paralelo.md",
     "FACULDADE/ARQUITETURA/provas.md",
@@ -229,17 +237,11 @@
     "FACULDADE/ARQUITETURA/eletrônica digital.md",
     "FACULDADE/PACODE/palestra de marianne.md",
     "TRILHA/frontend.md",
-    "FACULDADE/POO/programação orientada a objetos.md",
-    "FACULDADE/POO/outros aspectos e funções.md",
     "TRILHA/banco de dados.md",
     "TRILHA/backend.md",
-    "FACULDADE/POO/conversão, entrada e saída.md",
     "FACULDADE/ENETRIX.md",
     "FACULDADE/POO/belarmino.canvas",
-    "FACULDADE/POO/recursão e arquivos.md",
     "TRILHA/202/links importantes.md",
-    "TRILHA/202/github e vercel.md",
-    "FACULDADE/LÓGICA/formas normais.md",
     "TRILHA/202",
     "ARQUIVOS/RESUMO CISC X RISC 1.pdf",
     "ARQUIVOS",
