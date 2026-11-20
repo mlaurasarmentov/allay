@@ -27,13 +27,14 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://app.todoist.com/app/today"
+                "url": "https://app.todoist.com/app/project/faculdade-6hwphpWMV8FFW6v8"
               },
               "icon": "lucide-file",
-              "title": "Today – Todoist"
+              "title": "Todoist"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,7 +226,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "62eed2b072adeb7d",
+  "active": "94043dcf7393ecee",
   "lastOpenFiles": [
     "FACULDADE/POO/interfaces e diagrama de classes.md",
     "FACULDADE/POO/conversão, entrada e saída.md",
