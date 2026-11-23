@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "5066b2bd07f86b2f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "EXCALIDRAW/MCC-POO-UML.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "MCC-POO-UML.excalidraw"
+            }
+          },
+          {
             "id": "c263bc4d9e00114c",
             "type": "leaf",
             "state": {
@@ -226,8 +238,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c263bc4d9e00114c",
+  "active": "5066b2bd07f86b2f",
   "lastOpenFiles": [
+    "EXCALIDRAW/MCC-POO-UML.excalidraw.md",
     "TRILHA/202/verificar.md",
     "FACULDADE/POO/interfaces e diagrama de classes.md",
     "FACULDADE/POO/conversão, entrada e saída.md",
@@ -253,7 +266,6 @@
     "TRILHA/frontend.md",
     "TRILHA/banco de dados.md",
     "TRILHA/backend.md",
-    "FACULDADE/ENETRIX.md",
     "FACULDADE/POO/belarmino.canvas",
     "TRILHA/202",
     "ARQUIVOS/RESUMO CISC X RISC 1.pdf",
