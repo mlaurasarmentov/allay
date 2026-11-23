@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "5066b2bd07f86b2f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "EXCALIDRAW/MCC-POO-UML.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MCC-POO-UML.excalidraw"
-            }
-          },
-          {
             "id": "c263bc4d9e00114c",
             "type": "leaf",
             "state": {
@@ -238,7 +226,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5066b2bd07f86b2f",
+  "active": "c263bc4d9e00114c",
   "lastOpenFiles": [
     "EXCALIDRAW/MCC-POO-UML.excalidraw.md",
     "TRILHA/202/verificar.md",
