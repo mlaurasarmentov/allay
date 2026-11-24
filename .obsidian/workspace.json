@@ -16,7 +16,7 @@
                 "url": "https://app.todoist.com/app/filter/all-2375344813"
               },
               "icon": "lucide-file",
-              "title": "All – Todoist"
+              "title": "Todoist"
             }
           },
           {
@@ -33,8 +33,7 @@
               "title": "verificar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,10 +225,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c263bc4d9e00114c",
+  "active": "94043dcf7393ecee",
   "lastOpenFiles": [
-    "EXCALIDRAW/MCC-POO-UML.excalidraw.md",
     "TRILHA/202/verificar.md",
+    "EXCALIDRAW/MCC-POO-UML.excalidraw.md",
     "FACULDADE/POO/interfaces e diagrama de classes.md",
     "FACULDADE/POO/conversão, entrada e saída.md",
     "FACULDADE/POO/programação orientada a objetos.md",
