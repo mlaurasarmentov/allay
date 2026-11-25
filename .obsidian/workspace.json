@@ -11,12 +11,12 @@
             "id": "94043dcf7393ecee",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "excalidraw",
               "state": {
-                "url": "https://app.todoist.com/app/today"
+                "file": "EXCALIDRAW/MCC-POO-UML.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Todoist"
+              "icon": "excalidraw-icon",
+              "title": "MCC-POO-UML.excalidraw"
             }
           },
           {
@@ -227,6 +227,7 @@
   },
   "active": "94043dcf7393ecee",
   "lastOpenFiles": [
+    "ARQUIVOS/RESUMO CISC X RISC.pdf",
     "TRILHA/202/verificar.md",
     "EXCALIDRAW/MCC-POO-UML.excalidraw.md",
     "FACULDADE/POO/interfaces e diagrama de classes.md",
@@ -252,12 +253,10 @@
     "FACULDADE/PACODE/palestra de marianne.md",
     "TRILHA/frontend.md",
     "TRILHA/banco de dados.md",
-    "TRILHA/backend.md",
     "FACULDADE/POO/belarmino.canvas",
     "TRILHA/202",
     "ARQUIVOS/RESUMO CISC X RISC 1.pdf",
     "ARQUIVOS",
-    "ARQUIVOS/RESUMO CISC X RISC.pdf",
     "ORGANIZAÇÃO/geral.canvas",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/pomodoro-stats.base",
