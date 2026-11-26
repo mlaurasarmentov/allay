@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94043dcf7393ecee",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "EXCALIDRAW/MCC-POO-UML.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MCC-POO-UML.excalidraw"
-            }
-          },
-          {
             "id": "c263bc4d9e00114c",
             "type": "leaf",
             "state": {
@@ -225,11 +213,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "94043dcf7393ecee",
+  "active": "c263bc4d9e00114c",
   "lastOpenFiles": [
+    "EXCALIDRAW/MCC-POO-UML.excalidraw.md",
     "ARQUIVOS/RESUMO CISC X RISC.pdf",
     "TRILHA/202/verificar.md",
-    "EXCALIDRAW/MCC-POO-UML.excalidraw.md",
     "FACULDADE/POO/interfaces e diagrama de classes.md",
     "FACULDADE/POO/conversão, entrada e saída.md",
     "FACULDADE/POO/programação orientada a objetos.md",
